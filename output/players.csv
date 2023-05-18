@@ -1,225 +1,225 @@
 ,Team Name,Player Name,Player Type,Player Age,Matches Played,Goals,Yellow Cards,Red Cards,Fouls,Assists,Shots on Goal,Goals Conceded,Tackles,Blocks,Interceptions,Saves,Passes,Accurate Passes
 0,Manchester City,S. Ortega,Goalkeepers,30,1,0,0,0,,0,,0,,,,2,43,39
-1,Manchester City,Ederson,Goalkeepers,29,33,0,3,0,1,1,,31,3,,1,41,1037,876
+1,Manchester City,Ederson,Goalkeepers,29,34,0,3,0,1,1,,31,3,,1,43,1068,904
 2,Manchester City,S. Carson,Goalkeepers,37,0,0,0,0,,0,,0,,,,,,
-3,Manchester City,K. Walker,Defenders,32,23,0,3,0,11,0,3,0,11,2,15,,1455,1296
-4,Manchester City,Rúben Dias,Defenders,25,25,0,3,0,19,0,7,0,21,11,18,,1974,1828
+3,Manchester City,K. Walker,Defenders,32,24,0,3,0,11,0,4,0,12,2,16,,1535,1369
+4,Manchester City,Rúben Dias,Defenders,26,26,0,3,0,19,0,7,0,21,13,18,,2071,1920
 5,Manchester City,J. Stones,Defenders,28,21,2,2,0,10,2,9,0,22,7,9,,1407,1311
 6,Manchester City,N. Aké,Defenders,28,25,1,2,0,12,0,7,0,25,9,19,,1648,1504
-7,Manchester City,Aymeric Laporte,Defenders,28,9,0,0,0,2,0,7,0,6,3,2,,689,642
-8,Manchester City,M. Akanji,Defenders,27,27,0,2,0,24,1,10,0,34,9,14,,1872,1746
+7,Manchester City,Aymeric Laporte,Defenders,28,10,0,0,0,2,0,7,0,7,3,2,,800,745
+8,Manchester City,M. Akanji,Defenders,27,28,0,2,0,24,1,10,0,35,9,16,,1957,1827
 9,Manchester City,R. Lewis,Defenders,18,11,0,1,0,6,0,3,0,14,2,3,,485,452
-10,Manchester City,K. Phillips,Midfielders,27,8,0,1,0,5,0,1,0,5,1,2,,135,123
-11,Manchester City,İ. Gündoğan,Midfielders,32,29,6,0,0,19,3,39,0,27,3,19,,1418,1247
-12,Manchester City,J. Grealish,Midfielders,27,27,5,4,0,27,7,29,0,25,3,7,,985,862
-13,Manchester City,Rodri,Midfielders,26,33,2,5,0,46,6,32,0,66,14,32,,2801,2556
+10,Manchester City,K. Phillips,Midfielders,27,9,0,1,0,5,0,1,0,5,1,2,,145,132
+11,Manchester City,İ. Gündoğan,Midfielders,32,30,8,0,0,21,4,41,0,27,3,19,,1450,1275
+12,Manchester City,J. Grealish,Midfielders,27,28,5,4,0,27,7,29,0,25,3,7,,989,865
+13,Manchester City,Rodri,Midfielders,26,34,2,5,0,46,6,33,0,66,14,33,,2876,2624
 14,Manchester City,K. De Bruyne,Midfielders,31,30,7,1,0,20,16,44,0,26,2,9,,1322,1065
-15,Manchester City,Bernardo Silva,Midfielders,28,32,4,4,0,30,5,15,0,43,5,15,,1331,1181
-16,Manchester City,Sergio Gómez,Midfielders,22,8,0,0,0,,1,3,0,5,3,2,,141,124
+15,Manchester City,Bernardo Silva,Midfielders,28,33,4,4,0,30,5,15,0,43,5,15,,1346,1196
+16,Manchester City,Sergio Gómez,Midfielders,22,9,0,0,0,,1,3,0,5,3,2,,144,127
 17,Manchester City,M. Perrone,Midfielders,20,1,0,0,0,,0,,0,,,,,20,18
-18,Manchester City,P. Foden,Midfielders,22,28,10,1,0,8,5,29,0,15,1,5,,815,692
+18,Manchester City,P. Foden,Midfielders,22,29,10,1,0,8,5,29,0,15,1,5,,868,739
 19,Manchester City,C. Palmer,Midfielders,21,11,0,1,0,1,0,1,0,4,,1,,83,74
 20,Manchester City,B. Knight,Midfielders,20,0,0,0,0,,0,,0,,,,,,
 21,Manchester City,S. Charles,Midfielders,19,0,0,0,0,,0,,,,,,,,
 22,Manchester City,A. Robertson,Midfielders,20,0,0,0,0,,0,,,,,,,,
-23,Manchester City,E. Haaland,Forwards,22,32,35,5,0,30,7,98,0,3,4,3,,450,339
-24,Manchester City,J. Álvarez,Forwards,23,27,8,0,0,17,0,29,0,23,,1,,373,305
-25,Manchester City,R. Mahrez,Forwards,32,26,5,2,0,11,9,27,0,23,,8,,886,774
-26,Liverpool,Alisson,Goalkeepers,30,34,0,0,0,1,1,,42,,,,100,1162,973
+23,Manchester City,E. Haaland,Forwards,22,33,36,5,0,30,7,100,0,3,4,3,,457,344
+24,Manchester City,J. Álvarez,Forwards,23,28,8,0,0,17,0,29,0,24,,1,,399,327
+25,Manchester City,R. Mahrez,Forwards,32,27,5,2,0,13,10,28,0,26,,9,,927,807
+26,Liverpool,Alisson,Goalkeepers,30,35,0,1,0,1,1,,42,,,,102,1187,985
 27,Liverpool,Adrián,Goalkeepers,36,0,0,0,0,,0,,0,,,,,,
 28,Liverpool,C. Kelleher,Goalkeepers,24,0,0,0,0,,0,,0,,,,,,
 29,Liverpool,H. Davies,Goalkeepers,19,0,0,0,0,,0,,0,,,,,,
 30,Liverpool,J. Gomez,Defenders,25,20,0,3,0,13,0,4,0,28,11,22,,1235,1064
-31,Liverpool,V. van Dijk,Defenders,31,29,3,2,0,11,0,22,0,27,15,28,,2363,2135
-32,Liverpool,I. Konaté,Defenders,23,15,0,2,0,21,0,5,0,32,5,22,,983,864
-33,Liverpool,K. Tsimikas,Defenders,26,17,0,2,0,11,4,3,0,13,1,9,,383,322
+31,Liverpool,V. van Dijk,Defenders,31,30,3,3,0,13,1,23,0,27,16,29,,2409,2177
+32,Liverpool,I. Konaté,Defenders,23,16,0,3,0,25,0,6,0,33,5,23,,1013,888
+33,Liverpool,K. Tsimikas,Defenders,26,18,0,2,0,11,4,3,0,13,1,9,,387,326
 34,Liverpool,C. Ramsay,Defenders,19,0,0,0,0,,0,,0,,,,,,
-35,Liverpool,A. Robertson,Defenders,29,31,0,3,0,20,8,8,0,36,5,18,,1670,1403
+35,Liverpool,A. Robertson,Defenders,29,32,0,3,0,22,8,8,0,37,5,18,,1709,1437
 36,Liverpool,J. Matip,Defenders,31,13,1,3,0,9,0,4,0,15,3,17,,810,701
 37,Liverpool,Stefan Bajčetić,Defenders,18,11,1,2,0,7,0,4,0,9,,9,,253,199
 38,Liverpool,R. Williams,Defenders,22,0,0,0,0,,0,,0,,,,,,
 39,Liverpool,N. Phillips,Defenders,26,2,0,0,0,1,0,,0,2,,2,,82,71
-40,Liverpool,T. Alexander-Arnold,Defenders,24,33,1,4,0,19,8,21,0,53,7,41,,2032,1603
-41,Liverpool,Fabinho,Midfielders,29,32,0,9,0,40,1,11,0,56,11,32,,1613,1430
+40,Liverpool,T. Alexander-Arnold,Defenders,24,34,1,4,0,19,8,23,0,54,7,41,,2083,1644
+41,Liverpool,Fabinho,Midfielders,29,33,0,10,0,43,1,11,0,58,11,33,,1650,1464
 42,Liverpool,Thiago Alcântara,Midfielders,32,18,0,2,0,18,0,3,0,43,3,21,,1085,939
-43,Liverpool,J. Milner,Midfielders,37,27,0,2,0,13,1,5,0,22,2,12,,506,411
+43,Liverpool,J. Milner,Midfielders,37,28,0,2,0,14,1,5,0,22,2,12,,509,414
 44,Liverpool,N. Keïta,Midfielders,28,8,0,1,0,12,0,4,0,5,,2,,164,128
-45,Liverpool,J. Henderson,Midfielders,32,31,0,2,0,15,2,17,0,29,3,20,,1414,1199
+45,Liverpool,J. Henderson,Midfielders,32,32,0,2,0,16,2,17,0,29,3,20,,1426,1208
 46,Liverpool,A. Oxlade-Chamberlain,Midfielders,29,9,1,0,0,3,0,6,0,5,2,1,,100,73
-47,Liverpool,C. Jones,Midfielders,22,14,1,2,0,9,1,3,0,24,1,3,,495,450
+47,Liverpool,C. Jones,Midfielders,22,15,1,2,0,9,1,4,0,26,1,3,,526,478
 48,Liverpool,H. Elliott,Midfielders,20,29,1,1,0,13,2,18,0,23,1,14,,920,761
 49,Liverpool,Fábio Carvalho,Midfielders,20,12,2,0,0,5,0,10,0,8,,5,,135,112
 50,Liverpool,Arthur,Midfielders,26,0,0,0,0,,0,,0,,,,,,
 51,Liverpool,B. Clark,Midfielders,18,1,0,0,0,1,0,,0,,,,,1,1
 52,Liverpool,M. Frauendorf,Midfielders,19,0,0,0,0,,0,,,,,,,,
 53,Liverpool,Roberto Firmino,Forwards,31,23,9,0,0,7,4,29,0,16,1,6,,521,418
-54,Liverpool,Mohamed Salah,Forwards,30,34,18,2,0,19,7,84,0,18,,5,,981,768
-55,Liverpool,C. Gakpo,Forwards,23,17,6,0,0,19,2,22,0,15,1,4,,294,229
-56,Liverpool,Diogo Jota,Forwards,26,18,5,2,0,16,4,24,0,20,,3,,315,237
-57,Liverpool,L. Díaz,Forwards,26,13,4,2,0,15,2,16,0,13,,3,,343,285
-58,Liverpool,D. Núñez,Forwards,23,28,9,1,1,24,3,70,0,11,,3,,360,240
+54,Liverpool,Mohamed Salah,Forwards,30,35,19,2,0,20,7,87,0,18,,6,,1022,800
+55,Liverpool,C. Gakpo,Forwards,24,18,6,0,0,22,2,23,0,17,1,4,,314,245
+56,Liverpool,Diogo Jota,Forwards,26,19,5,2,0,17,4,25,0,20,,3,,333,250
+57,Liverpool,L. Díaz,Forwards,26,14,4,2,0,15,2,16,0,13,,3,,353,292
+58,Liverpool,D. Núñez,Forwards,23,29,9,1,1,25,3,71,0,11,,3,,371,249
 59,Liverpool,B. Doak,Forwards,17,2,0,0,0,1,0,,0,3,,,,14,10
 60,Liverpool,L. Stewart,Forwards,20,0,0,0,0,,0,,,,,,,,
-61,Chelsea,Kepa,Goalkeepers,28,25,0,1,0,,0,,26,2,,,79,761,607
+61,Chelsea,Kepa,Goalkeepers,28,26,0,1,0,,0,,27,2,,1,82,794,636
 62,Chelsea,M. Bettinelli,Goalkeepers,30,0,0,0,0,,0,,0,,,,,,
 63,Chelsea,É. Mendy,Goalkeepers,31,9,0,1,0,,0,,12,,,,25,226,171
 64,Chelsea,L. Bergström,Goalkeepers,20,0,0,0,0,,0,,,,,,,,
 65,Chelsea,G. Słonina,Goalkeepers,18,0,0,0,0,,0,,,,,,,,
-66,Chelsea,B. Badiashile,Defenders,22,9,0,1,0,7,0,3,0,13,2,13,,654,588
-67,Chelsea,Thiago Silva,Defenders,38,23,0,1,0,8,2,10,0,36,26,30,,1745,1586
-68,Chelsea,T. Chalobah,Defenders,23,20,0,4,0,11,0,3,0,23,3,20,,811,725
-69,Chelsea,B. Chilwell,Defenders,26,22,2,3,0,13,2,14,0,21,1,18,,736,613
+66,Chelsea,B. Badiashile,Defenders,22,10,1,2,0,8,0,4,0,13,2,15,,758,677
+67,Chelsea,Thiago Silva,Defenders,38,24,0,1,0,8,2,10,0,38,26,30,,1815,1652
+68,Chelsea,T. Chalobah,Defenders,23,21,0,4,0,11,0,3,0,25,3,22,,894,800
+69,Chelsea,B. Chilwell,Defenders,26,23,2,3,0,13,2,14,0,21,2,18,,759,632
 70,Chelsea,R. James,Defenders,23,16,1,4,0,9,1,10,0,31,2,12,,852,773
 71,Chelsea,K. Koulibaly,Defenders,31,22,2,6,0,22,1,10,0,42,12,29,,1443,1257
-72,Chelsea,César Azpilicueta,Defenders,33,21,0,3,0,20,0,3,0,32,4,16,,756,626
+72,Chelsea,César Azpilicueta,Defenders,33,22,0,3,0,20,0,4,0,33,4,17,,759,628
 73,Chelsea,Marc Cucurella,Defenders,24,24,0,4,0,16,2,3,0,66,8,16,,1090,942
 74,Chelsea,W. Fofana,Defenders,22,12,1,3,0,7,0,6,0,28,6,19,,681,610
-75,Chelsea,E. Fernández,Midfielders,22,13,0,1,0,8,2,9,0,37,2,12,,992,878
-76,Chelsea,N. Kanté,Midfielders,32,6,0,0,0,3,0,4,0,15,,6,,289,238
-77,Chelsea,M. Kovačić,Midfielders,28,25,1,8,0,17,2,12,0,35,1,19,,1256,1080
+75,Chelsea,E. Fernández,Midfielders,22,14,0,1,0,9,2,10,0,38,2,13,,1071,952
+76,Chelsea,N. Kanté,Midfielders,32,7,0,1,0,5,1,5,0,16,,6,,325,268
+77,Chelsea,M. Kovačić,Midfielders,29,25,1,8,0,17,2,12,0,35,1,19,,1256,1080
 78,Chelsea,C. Pulišić,Midfielders,24,21,1,1,0,9,1,13,0,11,1,4,,266,223
-79,Chelsea,R. Loftus-Cheek,Midfielders,27,20,0,1,0,9,0,4,0,23,2,11,,726,635
-80,Chelsea,M. Mudryk,Midfielders,22,12,0,0,0,7,2,8,0,8,1,,,149,118
+79,Chelsea,R. Loftus-Cheek,Midfielders,27,21,0,1,0,10,0,4,0,24,2,11,,742,650
+80,Chelsea,M. Mudryk,Midfielders,22,13,0,1,0,8,2,8,0,8,1,,,167,135
 81,Chelsea,M. Mount,Midfielders,24,24,3,4,0,28,2,20,0,34,6,8,,704,564
 82,Chelsea,D. Zakaria,Midfielders,26,7,0,0,0,5,0,1,0,9,1,3,,179,159
-83,Chelsea,H. Ziyech,Midfielders,30,15,0,1,0,12,1,7,0,18,,4,,284,208
-84,Chelsea,C. Gallagher,Midfielders,23,30,2,9,0,26,1,11,0,36,8,18,,622,518
-85,Chelsea,K. Havertz,Midfielders,23,30,7,4,0,54,1,57,0,33,,7,,748,609
+83,Chelsea,H. Ziyech,Midfielders,30,16,0,1,0,12,2,7,0,20,,5,,291,213
+84,Chelsea,C. Gallagher,Midfielders,23,31,3,9,0,28,1,12,0,38,9,19,,665,556
+85,Chelsea,K. Havertz,Midfielders,23,31,7,4,0,55,1,58,0,33,,7,,774,632
 86,Chelsea,C. Chukwuemeka,Midfielders,19,11,0,0,0,1,0,1,0,11,,4,,114,96
 87,Chelsea,H. Vale,Midfielders,19,0,0,0,0,,0,,0,,,,,,
 88,Chelsea,O. Giraud-Hutchinson,Midfielders,19,1,0,0,0,,0,,0,,,1,,10,8
 89,Chelsea,L. Hall,Midfielders,18,5,0,1,0,2,0,5,0,11,,10,,171,133
 90,Chelsea,P. Aubameyang,Forwards,33,15,1,1,0,5,0,13,0,1,,2,,108,81
-91,Chelsea,João Félix,Forwards,23,12,2,0,1,12,0,21,0,14,,1,,277,223
-92,Chelsea,R. Sterling,Forwards,28,24,4,4,0,20,2,20,0,13,,1,,545,423
+91,Chelsea,João Félix,Forwards,23,13,3,0,1,12,0,22,0,14,,1,,283,228
+92,Chelsea,R. Sterling,Forwards,28,25,4,4,0,21,3,20,0,13,,1,,555,432
 93,Chelsea,A. Broja,Forwards,21,12,1,0,0,2,0,6,0,4,1,1,,53,33
 94,Chelsea,D. Fofana,Forwards,20,2,0,0,0,3,0,3,0,2,,,,5,4
-95,Chelsea,N. Madueke,Forwards,21,7,1,0,0,1,0,5,0,5,1,4,,114,96
-96,Manchester United,David de Gea,Goalkeepers,32,32,0,0,0,,0,,39,,,,83,911,629
+95,Chelsea,N. Madueke,Forwards,21,8,1,0,0,2,0,8,0,5,1,4,,157,129
+96,Manchester United,David de Gea,Goalkeepers,32,34,0,0,0,,0,,41,,,,91,984,674
 97,Manchester United,T. Heaton,Goalkeepers,37,0,0,0,0,,0,,0,,,,,,
 98,Manchester United,N. Bishop,Goalkeepers,23,0,0,0,0,,0,,0,,,,,,
 99,Manchester United,J. Butland,Goalkeepers,30,0,0,0,0,,0,,0,,,,,,
 100,Manchester United,R. Vítek,Goalkeepers,19,0,0,0,0,,0,,,,,,,,
-101,Manchester United,V. Lindelöf,Defenders,28,14,0,1,0,5,0,2,0,9,6,13,,595,556
+101,Manchester United,V. Lindelöf,Defenders,28,16,0,1,0,5,0,2,0,12,7,17,,705,656
 102,Manchester United,P. Jones,Defenders,31,0,0,0,0,,0,,,,,,,,
 103,Manchester United,H. Maguire,Defenders,30,14,0,4,0,7,0,,0,7,11,10,,511,438
 104,Manchester United,Lisandro Martínez,Defenders,25,27,1,6,0,21,0,7,0,54,27,33,,1518,1325
-105,Manchester United,T. Malacia,Defenders,23,19,0,4,0,33,0,3,0,40,3,21,,542,467
+105,Manchester United,T. Malacia,Defenders,23,20,0,5,0,36,0,3,0,42,3,22,,603,524
 106,Manchester United,R. Varane,Defenders,30,21,0,1,0,10,0,4,0,23,16,10,,946,815
-107,Manchester United,Diogo Dalot,Defenders,24,23,1,5,0,18,2,11,0,52,7,33,,1105,889
-108,Manchester United,L. Shaw,Defenders,27,26,1,6,0,40,2,9,0,43,13,32,,1513,1283
-109,Manchester United,A. Wan-Bissaka,Defenders,25,14,0,1,0,6,0,3,0,27,4,17,,502,417
+107,Manchester United,Diogo Dalot,Defenders,24,25,1,6,0,20,2,11,0,53,7,35,,1150,923
+108,Manchester United,L. Shaw,Defenders,27,28,1,7,0,45,2,10,0,45,17,33,,1661,1418
+109,Manchester United,A. Wan-Bissaka,Defenders,25,16,0,2,0,8,0,3,0,31,7,21,,586,490
 110,Manchester United,B. Williams,Defenders,22,0,0,0,0,,0,,0,,,,,,
 111,Manchester United,Marc Jurado,Defenders,19,0,0,0,0,,0,,0,,,,,,
 112,Manchester United,R. Bennett,Defenders,19,0,0,0,0,,0,,0,,,,,,
-113,Manchester United,Bruno Fernandes,Midfielders,28,31,6,6,0,36,7,52,0,60,5,22,,1563,1217
-114,Manchester United,C. Eriksen,Midfielders,31,23,1,3,0,11,7,21,0,14,8,10,,1162,972
-115,Manchester United,M. Sabitzer,Midfielders,29,9,0,1,0,8,1,7,0,11,2,7,,278,219
-116,Manchester United,Fred,Midfielders,30,29,2,6,0,27,1,16,0,40,1,15,,659,529
-117,Manchester United,Casemiro,Midfielders,31,22,2,5,2,37,3,16,0,66,8,29,,1063,837
+113,Manchester United,Bruno Fernandes,Midfielders,28,33,6,6,0,37,7,57,0,64,5,22,,1664,1295
+114,Manchester United,C. Eriksen,Midfielders,31,24,1,3,0,11,7,23,0,14,9,10,,1228,1032
+115,Manchester United,M. Sabitzer,Midfielders,29,11,0,1,0,8,1,7,0,12,2,8,,296,234
+116,Manchester United,Fred,Midfielders,30,31,2,6,0,29,1,16,0,42,1,16,,687,551
+117,Manchester United,Casemiro,Midfielders,31,24,2,6,2,40,3,19,0,76,10,30,,1188,932
 118,Manchester United,F. Pellistri,Midfielders,21,3,0,0,0,1,0,,0,,,,,12,11
 119,Manchester United,D. van de Beek,Midfielders,26,7,0,0,0,4,0,,0,,1,1,,59,46
 120,Manchester United,S. McTominay,Midfielders,26,21,1,7,0,27,0,9,0,32,5,13,,406,338
 121,Manchester United,Zidane Iqbal,Midfielders,20,0,0,0,0,,0,,0,,,,,,
 122,Manchester United,K. Mainoo,Midfielders,18,1,0,0,0,,0,,0,,1,,,8,7
-123,Manchester United,A. Martial,Forwards,27,15,4,0,0,6,2,13,0,2,1,1,,197,168
-124,Manchester United,M. Rashford,Forwards,25,31,16,2,0,13,5,66,0,19,4,7,,671,521
-125,Manchester United,Antony,Forwards,23,20,4,4,0,12,1,42,0,21,,10,,617,508
-126,Manchester United,J. Sancho,Forwards,23,20,5,0,0,9,2,12,0,13,2,7,,578,496
-127,Manchester United,W. Weghorst,Forwards,30,12,0,1,0,11,1,7,0,7,2,7,,159,115
+123,Manchester United,A. Martial,Forwards,27,17,4,0,0,7,2,17,0,3,1,1,,241,203
+124,Manchester United,M. Rashford,Forwards,25,33,16,2,0,14,5,73,0,19,4,7,,733,572
+125,Manchester United,Antony,Forwards,23,22,4,5,0,14,1,46,0,22,,11,,673,555
+126,Manchester United,J. Sancho,Forwards,23,22,5,0,0,9,2,12,0,13,2,7,,597,511
+127,Manchester United,W. Weghorst,Forwards,30,14,0,1,0,12,1,8,0,10,2,7,,184,132
 128,Manchester United,A. Elanga,Forwards,21,16,0,0,0,3,1,9,0,3,,2,,121,92
 129,Manchester United,A. Garnacho,Forwards,18,15,2,2,0,6,2,11,0,3,,4,,142,115
-130,Arsenal,A. Ramsdale,Goalkeepers,24,34,0,1,0,,0,,39,1,,,86,823,526
+130,Arsenal,A. Ramsdale,Goalkeepers,24,35,0,1,0,,0,,39,1,,,91,852,539
 131,Arsenal,M. Turner,Goalkeepers,28,0,0,0,0,,0,,0,,,,,,
 132,Arsenal,K. Hein,Goalkeepers,21,0,0,0,0,,0,,0,,,,,,
 133,Arsenal,J. Hillson,Goalkeepers,22,0,0,0,0,,0,,,,,,,,
-134,Arsenal,K. Tierney,Defenders,25,23,0,0,0,4,1,5,0,16,2,9,,353,278
-135,Arsenal,B. White,Defenders,25,34,2,5,0,25,5,8,0,55,9,21,,1730,1486
-136,Arsenal,Gabriel Magalhães,Defenders,25,34,3,4,0,21,0,24,0,45,25,27,,2166,1945
+134,Arsenal,K. Tierney,Defenders,25,24,0,0,0,4,1,5,0,17,2,9,,359,281
+135,Arsenal,B. White,Defenders,25,35,2,5,0,25,5,8,0,55,10,22,,1761,1512
+136,Arsenal,Gabriel Magalhães,Defenders,25,35,3,4,0,21,0,24,0,46,25,29,,2205,1979
 137,Arsenal,W. Saliba,Defenders,22,27,2,4,0,19,1,6,0,34,10,19,,1864,1697
-138,Arsenal,J. Kiwior,Defenders,23,3,0,0,0,,0,,0,2,1,3,,64,59
+138,Arsenal,J. Kiwior,Defenders,23,4,0,0,0,,0,,0,4,2,4,,93,84
 139,Arsenal,R. Holding,Defenders,27,14,1,0,0,5,0,3,0,8,5,3,,438,380
 140,Arsenal,T. Tomiyasu,Defenders,24,21,0,2,0,6,1,1,0,27,,14,,412,340
 141,Arsenal,L. Sousa,Defenders,18,0,0,0,0,,0,,0,,,,,,
 142,Arsenal,R. Walters,Defenders,18,0,0,0,0,,0,,0,,,,,,
-143,Arsenal,T. Partey,Midfielders,29,29,3,4,0,34,0,18,0,65,5,26,,1749,1532
-144,Arsenal,B. Saka,Midfielders,21,34,13,6,0,38,11,54,0,50,,14,,1123,905
-145,Arsenal,M. Ødegaard,Midfielders,24,33,14,4,0,26,7,54,0,33,5,6,,1508,1273
+143,Arsenal,T. Partey,Midfielders,29,30,3,4,0,34,0,18,0,65,5,26,,1752,1534
+144,Arsenal,B. Saka,Midfielders,21,35,13,6,0,40,11,55,0,56,,14,,1143,922
+145,Arsenal,M. Ødegaard,Midfielders,24,34,15,4,0,27,7,57,0,34,5,6,,1537,1295
 146,Arsenal,E. Smith Rowe,Midfielders,22,10,0,0,0,1,1,2,0,1,,,,68,62
-147,Arsenal,Jorginho,Midfielders,31,10,0,0,0,4,0,2,0,9,2,6,,470,409
+147,Arsenal,Jorginho,Midfielders,31,11,0,0,0,4,1,2,0,11,2,8,,523,453
 148,Arsenal,Fábio Vieira,Midfielders,22,20,1,0,0,3,2,9,0,6,,4,,248,209
 149,Arsenal,Mohamed Elneny,Midfielders,30,5,0,0,0,1,0,,0,1,,,,60,57
-150,Arsenal,G. Xhaka,Midfielders,30,33,5,5,0,22,7,22,0,30,9,13,,1468,1272
-151,Arsenal,O. Zinchenko,Midfielders,26,26,1,3,0,5,2,20,0,40,2,21,,1677,1471
+150,Arsenal,G. Xhaka,Midfielders,30,34,5,5,0,23,7,22,0,32,10,13,,1501,1299
+151,Arsenal,O. Zinchenko,Midfielders,26,27,1,3,0,6,2,20,0,40,2,22,,1716,1506
 152,Arsenal,M. Smith,Midfielders,22,0,0,0,0,,0,,0,,,,,,
 153,Arsenal,E. Nwaneri,Midfielders,16,1,0,0,0,,0,,0,,,,,,
 154,Arsenal,A. Cozier-Duberry,Midfielders,17,0,0,0,0,,0,,0,,,,,,
 155,Arsenal,C. Cîrjan,Midfielders,20,0,0,0,0,,0,,,,,,,,
 156,Arsenal,Mauro Bandeira,Midfielders,19,0,0,0,0,,0,,,,,,,,
 157,Arsenal,B. Ibrahim,Midfielders,18,0,0,0,0,,0,,,,,,,,
-158,Arsenal,Gabriel Jesus,Forwards,26,22,10,5,0,34,5,50,0,27,2,9,,580,475
-159,Arsenal,Gabriel Martinelli,Forwards,21,34,15,3,0,37,5,52,0,26,1,9,,960,791
-160,Arsenal,E. Nketiah,Forwards,23,26,4,2,0,27,1,25,0,12,1,1,,236,192
-161,Arsenal,L. Trossard,Forwards,28,16,1,0,0,9,8,8,0,7,,4,,317,268
-162,Arsenal,R. Nelson,Forwards,23,8,3,0,0,5,2,6,0,3,,,,87,79
+158,Arsenal,Gabriel Jesus,Forwards,26,23,10,5,0,38,5,51,0,28,2,10,,599,489
+159,Arsenal,Gabriel Martinelli,Forwards,21,35,15,3,0,38,5,55,0,31,1,9,,975,803
+160,Arsenal,E. Nketiah,Forwards,23,27,4,3,0,29,1,25,0,13,1,1,,237,192
+161,Arsenal,L. Trossard,Forwards,28,17,1,0,0,9,8,8,0,8,,4,,317,268
+162,Arsenal,R. Nelson,Forwards,23,9,3,0,0,5,2,6,0,3,,,,87,79
 163,Arsenal,K. Edwards,Forwards,19,0,0,0,0,,0,,,,,,,,
 164,Arsenal,C. Sagoe,Forwards,18,0,0,0,0,,0,,,,,,,,
 165,Leicester City,D. Ward,Goalkeepers,29,26,0,0,0,,0,,46,1,,,78,784,552
 166,Leicester City,A. Smithies,Goalkeepers,33,0,0,0,0,,0,,,,,,,,
-167,Leicester City,D. Iversen,Goalkeepers,25,8,0,0,0,,0,,13,,,,29,220,112
+167,Leicester City,D. Iversen,Goalkeepers,25,9,0,0,0,,0,,18,,,,31,239,123
 168,Leicester City,J. Justin,Defenders,25,14,0,0,0,8,0,3,0,20,6,15,,682,556
-169,Leicester City,W. Faes,Defenders,25,27,0,5,0,22,2,9,0,50,36,35,,1678,1435
-170,Leicester City,Ç. Söyüncü,Defenders,26,6,1,2,0,5,0,4,0,12,5,4,,257,204
+169,Leicester City,W. Faes,Defenders,25,28,0,5,0,23,2,10,0,51,36,37,,1734,1483
+170,Leicester City,Ç. Söyüncü,Defenders,26,7,1,2,0,7,0,4,0,14,8,7,,306,241
 171,Leicester City,R. Bertrand,Defenders,33,0,0,0,0,,0,,,,,,,,
 172,Leicester City,J. Evans,Defenders,35,10,0,0,0,7,0,1,0,10,5,16,,673,602
 173,Leicester City,H. Souttar,Defenders,24,10,0,2,0,5,1,6,0,13,11,11,,528,434
-174,Leicester City,V. Kristiansen,Defenders,20,11,0,2,0,15,1,2,0,34,4,3,,332,233
+174,Leicester City,V. Kristiansen,Defenders,20,12,0,2,0,17,1,2,0,38,4,3,,364,253
 175,Leicester City,D. Amartey,Defenders,28,20,0,1,0,7,0,6,0,19,17,8,,1105,1009
 176,Leicester City,Ricardo Pereira,Defenders,29,8,1,1,0,3,1,1,0,8,1,4,,228,188
 177,Leicester City,J. Vestergaard,Defenders,30,0,0,0,0,,0,,0,,,,,,
-178,Leicester City,T. Castagne,Defenders,27,33,2,3,0,22,3,13,0,80,12,39,,1391,1128
-179,Leicester City,L. Thomas,Defenders,21,13,0,2,0,8,0,2,0,19,3,22,,439,343
+178,Leicester City,T. Castagne,Defenders,27,34,2,3,0,23,3,13,0,80,12,41,,1423,1151
+179,Leicester City,L. Thomas,Defenders,21,14,0,2,0,8,0,2,0,20,3,24,,450,353
 180,Leicester City,J. Wormleighton,Defenders,19,0,0,0,0,,0,,0,,,,,,
-181,Leicester City,H. Barnes,Midfielders,25,30,10,2,0,33,1,48,0,24,1,7,,664,484
-182,Leicester City,Y. Tielemans,Midfielders,25,27,3,4,0,31,1,15,0,57,7,24,,1368,1128
-183,Leicester City,J. Maddison,Midfielders,26,26,9,9,0,27,8,45,0,42,,13,,894,712
-184,Leicester City,K. Dewsbury-Hall,Midfielders,24,29,2,4,0,35,2,18,0,51,13,27,,1043,815
+181,Leicester City,H. Barnes,Midfielders,25,31,12,3,0,36,1,51,0,24,1,8,,678,493
+182,Leicester City,Y. Tielemans,Midfielders,26,28,3,4,0,31,1,16,0,57,7,25,,1402,1159
+183,Leicester City,J. Maddison,Midfielders,26,27,10,10,0,28,9,49,0,44,,13,,922,733
+184,Leicester City,K. Dewsbury-Hall,Midfielders,24,30,2,4,0,37,2,18,0,51,13,27,,1055,826
 185,Leicester City,N. Mendy,Midfielders,30,17,1,1,0,9,0,2,0,13,4,13,,404,356
-186,Leicester City,W. Ndidi,Midfielders,26,24,0,4,0,29,0,5,0,46,11,33,,841,716
-187,Leicester City,D. Praet,Midfielders,28,21,1,1,0,8,0,3,0,11,2,5,,234,183
+186,Leicester City,W. Ndidi,Midfielders,26,25,0,4,0,29,0,5,0,48,11,33,,861,732
+187,Leicester City,D. Praet,Midfielders,28,22,1,1,0,9,0,3,0,12,2,5,,248,193
 188,Leicester City,L. Brunt,Midfielders,22,1,0,0,0,,0,,0,,,,,16,12
 189,Leicester City,Wanya Marçal,Midfielders,20,0,0,0,0,,0,,0,,,,,,
-190,Leicester City,B. Soumaré,Midfielders,24,22,0,8,0,24,0,1,0,50,3,25,,756,652
+190,Leicester City,B. Soumaré,Midfielders,24,23,0,9,0,26,0,1,0,51,4,27,,788,677
 191,Leicester City,S. Braybrooke,Midfielders,19,0,0,0,0,,0,,0,,,,,,
 192,Leicester City,W. Alves,Midfielders,18,0,0,0,0,,0,,,,,,,,
-193,Leicester City,J. Vardy,Forwards,36,33,3,1,0,21,4,20,0,9,3,2,,227,121
+193,Leicester City,J. Vardy,Forwards,36,34,3,1,0,21,4,23,0,9,3,2,,237,126
 194,Leicester City,K. Ịheanachọ,Forwards,26,26,5,0,0,16,4,31,0,7,1,,,267,198
-195,Leicester City,P. Daka,Forwards,24,27,4,2,0,22,3,23,0,13,2,5,,252,172
-196,Leicester City,Tetê,Forwards,23,11,1,0,0,3,0,10,0,14,,2,,208,158
+195,Leicester City,P. Daka,Forwards,24,28,4,2,0,22,4,23,0,13,2,5,,254,174
+196,Leicester City,Tetê,Forwards,23,12,1,0,0,3,0,11,0,14,,2,,223,171
 197,Tottenham Hotspur,H. Lloris,Goalkeepers,36,25,0,0,0,,0,,39,1,,1,79,616,453
-198,Tottenham Hotspur,F. Forster,Goalkeepers,35,10,0,0,0,,0,,18,,,,26,196,140
+198,Tottenham Hotspur,F. Forster,Goalkeepers,35,11,0,1,0,,0,,18,,,,28,219,157
 199,Tottenham Hotspur,B. Austin,Goalkeepers,24,0,0,0,0,,0,,0,,,,,,
 200,Tottenham Hotspur,A. Whiteman,Goalkeepers,24,0,0,0,0,,0,,,,,,,,
 201,Tottenham Hotspur,C. Sayers,Defenders,19,0,0,0,0,,0,,,,,,,,
 202,Tottenham Hotspur,D. Sánchez,Defenders,26,16,0,1,0,6,0,4,0,19,8,11,,458,400
-203,Tottenham Hotspur,Emerson,Defenders,24,22,2,2,1,18,1,12,0,42,3,12,,657,542
-204,Tottenham Hotspur,E. Dier,Defenders,29,32,2,3,0,25,1,9,0,30,24,35,,1978,1700
-205,Tottenham Hotspur,C. Romero,Defenders,25,23,0,9,0,39,1,9,0,63,18,36,,1428,1249
-206,Tottenham Hotspur,Pedro Porro,Defenders,23,11,2,0,0,9,1,15,0,20,1,11,,343,259
+203,Tottenham Hotspur,Emerson,Defenders,24,23,2,2,1,19,1,12,0,44,3,14,,714,593
+204,Tottenham Hotspur,E. Dier,Defenders,29,33,2,3,0,25,1,9,0,30,24,35,,1978,1700
+205,Tottenham Hotspur,C. Romero,Defenders,25,24,0,9,0,39,1,10,0,66,18,41,,1512,1324
+206,Tottenham Hotspur,Pedro Porro,Defenders,23,12,2,0,0,11,2,17,0,22,1,12,,385,291
 207,Tottenham Hotspur,J. Tanganga,Defenders,24,4,0,0,0,3,0,,0,3,,2,,91,81
-208,Tottenham Hotspur,B. Davies,Defenders,30,27,2,3,0,27,2,13,0,20,7,16,,1033,866
-209,Tottenham Hotspur,C. Lenglet,Defenders,27,22,0,3,0,17,2,6,0,32,8,16,,1151,1008
+208,Tottenham Hotspur,B. Davies,Defenders,30,28,2,4,0,30,2,13,0,22,7,18,,1080,901
+209,Tottenham Hotspur,C. Lenglet,Defenders,27,23,0,4,0,19,2,6,0,32,8,17,,1241,1089
 210,Tottenham Hotspur,M. Fagan-Walcott,Defenders,21,0,0,0,0,,0,,,,,,,,
 211,Tottenham Hotspur,M. Paskotši,Defenders,20,0,0,0,0,,0,,,,,,,,
 212,Tottenham Hotspur,A. Dorrington,Defenders,18,0,0,0,0,,0,,,,,,,,
 213,Tottenham Hotspur,G. Abbott,Defenders,17,0,0,0,0,,0,,0,,,,,,
 214,Tottenham Hotspur,M. Muir,Defenders,20,0,0,0,0,,0,,,,,,,,
-215,Tottenham Hotspur,O. Skipp,Midfielders,22,19,1,6,0,18,0,4,0,27,6,12,,587,508
-216,Tottenham Hotspur,P. Højbjerg,Midfielders,27,33,4,5,0,34,5,23,0,53,17,46,,2145,1904
+215,Tottenham Hotspur,O. Skipp,Midfielders,22,20,1,6,0,20,0,4,0,29,7,13,,637,555
+216,Tottenham Hotspur,P. Højbjerg,Midfielders,27,34,4,5,0,36,5,24,0,54,17,46,,2203,1952
 217,Tottenham Hotspur,I. Perišić,Midfielders,34,32,1,6,0,30,8,24,0,42,7,22,,772,557
-218,Tottenham Hotspur,A. Danjuma,Midfielders,26,6,1,0,0,,0,3,0,2,,,,26,13
+218,Tottenham Hotspur,A. Danjuma,Midfielders,26,7,1,0,0,,0,3,0,2,,,,26,13
 219,Tottenham Hotspur,R. Sessegnon,Midfielders,22,17,2,4,0,15,0,11,0,17,1,6,,290,213
-220,Tottenham Hotspur,D. Kulusevski,Midfielders,23,26,2,2,0,30,6,19,0,37,,12,,620,509
+220,Tottenham Hotspur,D. Kulusevski,Midfielders,23,27,2,2,0,31,6,19,0,37,,12,,620,509
 221,Tottenham Hotspur,P. Sarr,Midfielders,20,10,0,1,0,4,0,2,0,7,1,6,,141,129
 222,Tottenham Hotspur,R. Bentancur,Midfielders,25,18,5,8,0,24,2,12,0,45,15,20,,857,730
 223,Tottenham Hotspur,Y. Bissouma,Midfielders,26,20,0,5,0,14,0,3,0,12,5,9,,567,513
@@ -229,92 +229,92 @@
 227,Tottenham Hotspur,R. Mundle,Midfielders,20,0,0,0,0,,0,,0,,,,,,
 228,Tottenham Hotspur,M. Robson,Midfielders,20,0,0,0,0,,0,,,,,,,,
 229,Tottenham Hotspur,Yago Alonso,Midfielders,20,0,0,0,0,,0,,,,,,,,
-230,Tottenham Hotspur,Son Heung-Min,Forwards,30,32,10,2,0,12,5,54,0,22,2,10,,686,553
-231,Tottenham Hotspur,Richarlison,Forwards,25,23,1,3,0,11,3,17,0,20,1,5,,230,170
-232,Tottenham Hotspur,H. Kane,Forwards,29,34,25,5,0,28,3,90,0,14,5,2,,742,537
+230,Tottenham Hotspur,Son Heung-Min,Forwards,30,33,10,2,0,12,5,55,0,22,2,12,,709,574
+231,Tottenham Hotspur,Richarlison,Forwards,26,24,1,3,0,13,3,17,0,21,1,5,,243,179
+232,Tottenham Hotspur,H. Kane,Forwards,29,35,26,5,0,28,3,91,0,14,6,2,,769,553
 233,Tottenham Hotspur,Lucas Moura,Forwards,30,13,0,0,1,2,0,,0,7,,2,,61,43
 234,Tottenham Hotspur,W. Lankshear,Forwards,18,0,0,0,0,,0,,,,,,,,
 235,Tottenham Hotspur,J. Donley,Forwards,18,0,0,0,0,,0,,,,,,,,
 236,AFC Bournemouth,M. Travers,Goalkeepers,23,11,0,0,0,,0,,31,,,,31,276,196
 237,AFC Bournemouth,D. Randolph,Goalkeepers,35,0,0,0,0,,0,,0,,,,,,
-238,AFC Bournemouth,Neto,Goalkeepers,33,24,0,4,0,,0,,33,2,,,91,604,323
+238,AFC Bournemouth,Neto,Goalkeepers,33,25,0,4,0,,0,,36,3,,,93,630,340
 239,AFC Bournemouth,C. Plain,Goalkeepers,21,0,0,0,0,,0,,0,,,,,,
 240,AFC Bournemouth,R. Fredericks,Defenders,30,12,0,1,0,3,0,,0,3,2,1,,163,114
 241,AFC Bournemouth,J. Stephens,Defenders,29,15,0,3,0,8,0,2,0,15,16,16,,540,443
-242,AFC Bournemouth,L. Kelly,Defenders,24,19,0,3,0,15,2,1,0,24,12,20,,829,678
+242,AFC Bournemouth,L. Kelly,Defenders,24,20,0,3,0,15,2,1,0,26,12,20,,865,706
 243,AFC Bournemouth,C. Mepham,Defenders,25,25,0,7,0,16,0,7,0,42,27,30,,973,817
-244,AFC Bournemouth,A. Smith,Defenders,32,33,0,10,0,28,1,2,0,46,13,21,,875,658
+244,AFC Bournemouth,A. Smith,Defenders,32,34,0,10,0,28,1,2,0,47,13,23,,902,676
 245,AFC Bournemouth,J. Stacey,Defenders,27,10,0,2,0,4,0,1,0,5,1,5,,96,58
-246,AFC Bournemouth,M. Viña,Defenders,25,8,1,1,0,3,0,4,0,8,,3,,78,58
-247,AFC Bournemouth,M. Senesi,Defenders,25,28,2,5,0,24,0,5,0,45,19,33,,1090,880
+246,AFC Bournemouth,M. Viña,Defenders,25,9,2,1,0,4,0,7,0,9,,3,,104,77
+247,AFC Bournemouth,M. Senesi,Defenders,26,29,2,6,0,25,0,5,0,48,19,37,,1134,913
 248,AFC Bournemouth,I. Zabarnyi,Defenders,20,2,0,0,0,,0,,0,1,,,,5,4
 249,AFC Bournemouth,J. Zemura,Defenders,23,19,0,1,0,17,1,3,0,40,9,16,,456,316
 250,AFC Bournemouth,B. Greenwood,Defenders,20,0,0,0,0,,0,,0,,,,,,
 251,AFC Bournemouth,M. Kinsey-Wellings,Defenders,18,0,0,0,0,,0,,0,,,,,,
-252,AFC Bournemouth,L. Cook,Midfielders,26,25,0,3,0,13,2,2,0,36,9,21,,643,522
-253,AFC Bournemouth,D. Brooks,Midfielders,25,2,0,0,0,1,0,,0,1,,,,2,2
-254,AFC Bournemouth,J. Lerma,Midfielders,28,33,5,6,0,32,0,30,0,42,14,41,,1397,1144
-255,AFC Bournemouth,R. Christie,Midfielders,28,28,1,2,0,31,0,15,0,32,2,24,,517,428
-256,AFC Bournemouth,J. Rothwell,Midfielders,28,18,0,2,0,16,1,2,0,18,3,9,,378,330
+252,AFC Bournemouth,L. Cook,Midfielders,26,26,0,3,0,13,2,2,0,37,9,22,,650,529
+253,AFC Bournemouth,D. Brooks,Midfielders,25,3,0,0,0,1,0,,0,1,,,,6,4
+254,AFC Bournemouth,J. Lerma,Midfielders,28,34,5,6,0,35,0,31,0,44,15,41,,1431,1170
+255,AFC Bournemouth,R. Christie,Midfielders,28,29,1,2,0,31,1,17,0,32,2,24,,542,446
+256,AFC Bournemouth,J. Rothwell,Midfielders,28,19,0,2,0,16,1,2,0,19,3,9,,399,349
 257,AFC Bournemouth,M. Tavernier,Midfielders,24,23,5,1,0,21,4,27,0,33,4,9,,597,462
 258,AFC Bournemouth,J. Stanislas,Midfielders,33,4,0,0,0,,0,1,0,,1,,,27,22
 259,AFC Bournemouth,H. Traorè,Midfielders,23,7,0,0,0,4,0,2,0,17,,2,,135,96
-260,AFC Bournemouth,P. Billing,Midfielders,26,33,7,5,0,29,1,28,0,59,8,31,,908,716
+260,AFC Bournemouth,P. Billing,Midfielders,26,34,7,5,0,29,1,28,0,60,8,31,,930,734
 261,AFC Bournemouth,J. Wadham,Midfielders,20,0,0,0,0,,0,,,,,,,,
 262,AFC Bournemouth,F. Okoh,Midfielders,18,0,0,0,0,,0,,,,,,,,
 263,AFC Bournemouth,D. Sadi,Midfielders,19,0,0,0,0,,0,,0,,,,,,
 264,AFC Bournemouth,Michael Dacosta,Midfielders,18,0,0,0,0,,0,,0,,,,,,
 265,AFC Bournemouth,D. Adu-Adjei,Midfielders,17,0,0,0,0,,0,,0,,,,,,
-266,AFC Bournemouth,D. Solanke,Forwards,25,29,6,1,0,33,7,50,0,11,6,3,,443,304
-267,AFC Bournemouth,D. Ouattara,Forwards,21,15,1,1,0,5,3,17,0,25,2,10,,229,146
+266,AFC Bournemouth,D. Solanke,Forwards,25,30,6,1,0,36,7,50,0,12,6,3,,455,314
+267,AFC Bournemouth,D. Ouattara,Forwards,21,16,1,1,0,6,3,18,0,27,2,11,,244,157
 268,AFC Bournemouth,K. Moore,Forwards,30,24,4,1,0,24,0,20,0,14,5,1,,333,198
-269,AFC Bournemouth,A. Semenyo,Forwards,23,10,1,0,0,6,0,2,0,1,1,2,,52,35
-270,AFC Bournemouth,J. Anthony,Forwards,23,26,3,2,0,9,1,17,0,29,1,9,,408,319
+269,AFC Bournemouth,A. Semenyo,Forwards,23,11,1,0,0,6,0,2,0,1,1,2,,56,38
+270,AFC Bournemouth,J. Anthony,Forwards,23,27,3,2,0,9,1,18,0,29,1,9,,410,320
 271,AFC Bournemouth,E. Pollock,Forwards,20,0,0,0,0,,0,,0,,,,,,
-272,Southampton,A. McCarthy,Goalkeepers,33,2,0,0,0,,0,,4,,,,4,81,49
+272,Southampton,A. McCarthy,Goalkeepers,33,3,0,0,0,,0,,8,,,,4,107,69
 273,Southampton,W. Caballero,Goalkeepers,41,0,0,0,0,,0,,0,,,,,,
 274,Southampton,G. Bazunu,Goalkeepers,21,32,0,0,0,1,0,,56,1,,1,69,1028,575
-275,Southampton,K. Walker-Peters,Defenders,26,27,1,4,0,24,0,8,0,54,8,22,,877,684
-276,Southampton,Lyanco,Defenders,26,17,0,4,0,14,0,8,0,19,13,15,,365,269
+275,Southampton,K. Walker-Peters,Defenders,26,28,1,4,0,24,0,8,0,54,8,22,,926,725
+276,Southampton,Lyanco,Defenders,26,18,1,4,0,15,0,11,0,19,14,16,,402,300
 277,Southampton,D. Ćaleta-Car,Defenders,26,13,1,2,0,9,0,5,0,14,11,15,,562,479
 278,Southampton,J. Bree,Defenders,25,3,0,0,0,,0,,0,3,1,4,,89,64
 279,Southampton,R. Perraud,Defenders,25,29,2,4,0,31,2,13,0,54,6,20,,660,493
 280,Southampton,V. Livramento,Defenders,20,0,0,0,0,,0,,,,,,,,
 281,Southampton,M. Salisu,Defenders,24,22,0,5,0,26,1,17,0,51,25,31,,1090,837
 282,Southampton,Juan Larios,Defenders,19,5,0,0,0,1,0,,0,7,,3,,55,44
-283,Southampton,J. Bednarek,Defenders,27,14,0,4,0,13,0,3,0,22,23,40,,692,578
-284,Southampton,A. Bella-Kotchap,Defenders,21,23,0,4,0,9,2,13,0,37,12,44,,888,708
-285,Southampton,A. Maitland-Niles,Midfielders,25,20,0,3,0,9,0,1,0,43,6,20,,541,437
+283,Southampton,J. Bednarek,Defenders,27,15,0,4,0,13,0,3,0,23,23,44,,766,643
+284,Southampton,A. Bella-Kotchap,Defenders,21,24,0,4,0,9,2,13,0,37,12,44,,927,744
+285,Southampton,A. Maitland-Niles,Midfielders,25,21,0,3,0,12,0,1,0,44,7,20,,604,489
 286,Southampton,J. Aribo,Midfielders,26,20,2,2,0,9,0,9,0,30,1,8,,359,266
-287,Southampton,J. Ward-Prowse,Midfielders,28,34,7,5,0,31,2,29,0,58,5,48,,1742,1480
-288,Southampton,S. Armstrong,Midfielders,31,28,2,6,0,15,0,13,0,29,,8,,545,442
+287,Southampton,J. Ward-Prowse,Midfielders,28,35,8,5,0,31,3,31,0,58,5,49,,1800,1532
+288,Southampton,S. Armstrong,Midfielders,31,29,2,6,0,15,1,13,0,30,,8,,591,482
 289,Southampton,M. Djenepo,Midfielders,24,15,0,0,0,8,2,3,0,19,2,11,,196,151
-290,Southampton,K. Sulemana,Midfielders,21,14,0,1,0,9,1,14,0,13,,3,,205,159
+290,Southampton,K. Sulemana,Midfielders,21,15,0,1,0,9,1,15,0,13,,4,,214,166
 291,Southampton,M. Elyounoussi,Midfielders,28,30,0,3,0,36,1,22,0,43,3,26,,548,377
-292,Southampton,C. Alcaraz,Midfielders,20,14,3,2,0,12,1,13,0,6,4,1,,204,159
+292,Southampton,C. Alcaraz,Midfielders,20,15,4,2,0,14,1,15,0,6,4,1,,221,172
 293,Southampton,I. Diallo,Midfielders,24,18,0,4,0,18,0,4,0,25,1,6,,398,317
-294,Southampton,R. Lavia,Midfielders,19,25,1,8,0,22,0,6,0,52,9,27,,836,722
+294,Southampton,R. Lavia,Midfielders,19,26,1,8,0,22,0,6,0,53,9,29,,908,783
 295,Southampton,K. Doyle,Midfielders,17,0,0,0,0,,0,,,,,,,,
 296,Southampton,D. Edwards,Midfielders,19,0,0,0,0,,0,,,,,,,,
-297,Southampton,A. Armstrong,Forwards,26,27,1,2,0,17,1,19,0,13,3,4,,276,210
-298,Southampton,C. Adams,Forwards,26,27,5,1,0,36,3,33,0,17,4,4,,466,316
+297,Southampton,A. Armstrong,Forwards,26,28,1,2,0,17,1,20,0,14,3,4,,279,212
+298,Southampton,C. Adams,Forwards,26,28,5,1,0,38,3,36,0,17,4,4,,481,325
 299,Southampton,M. Oršić,Forwards,30,1,0,0,0,,0,,0,1,,,,2,1
-300,Southampton,P. Onuachu,Forwards,28,9,0,0,0,12,0,6,0,2,1,,,74,50
+300,Southampton,P. Onuachu,Forwards,28,10,0,0,0,13,0,7,0,2,1,,,77,50
 301,Southampton,S. Mara,Forwards,20,21,1,1,0,19,2,15,0,14,,1,,98,66
-302,Southampton,S. Edozie,Forwards,20,16,0,0,0,1,0,4,0,16,,6,,145,105
-303,Southampton,T. Walcott,Forwards,34,16,2,1,0,6,1,12,0,8,1,9,,171,125
+302,Southampton,S. Edozie,Forwards,20,17,0,0,0,1,0,4,0,17,,6,,152,109
+303,Southampton,T. Walcott,Forwards,34,17,2,1,0,7,1,13,0,8,1,9,,190,140
 304,Southampton,J. Morgan,Forwards,17,0,0,0,0,,0,,0,,,,,,
 305,Southampton,D. Ballard,Forwards,18,0,0,0,0,,0,,,,,,,,
-306,Everton,J. Pickford,Goalkeepers,29,33,0,5,0,1,1,,52,,,4,114,1031,535
+306,Everton,J. Pickford,Goalkeepers,29,34,0,5,0,1,1,,53,,,4,118,1066,546
 307,Everton,A. Begović,Goalkeepers,35,1,0,0,0,,0,,0,,,,4,25,16
 308,Everton,A. Lonergan,Goalkeepers,39,0,0,0,0,,0,,0,,,,,,
 309,Everton,B. Crellin,Goalkeepers,22,0,0,0,0,,0,,,,,,,,
-310,Everton,J. Tarkowski,Defenders,30,34,1,6,0,37,1,19,0,41,74,41,,1499,1218
-311,Everton,N. Patterson,Defenders,21,16,0,3,0,9,0,4,0,41,3,12,,410,332
+310,Everton,J. Tarkowski,Defenders,30,35,1,6,0,37,1,20,0,43,76,44,,1509,1225
+311,Everton,N. Patterson,Defenders,21,17,0,3,0,12,0,4,0,45,4,14,,428,343
 312,Everton,M. Holgate,Defenders,26,6,0,2,0,7,0,1,0,11,3,7,,183,126
 313,Everton,M. Keane,Defenders,30,11,1,0,0,7,1,12,0,7,7,13,,391,274
-314,Everton,Y. Mina,Defenders,28,3,1,1,0,4,0,3,0,9,1,2,,170,152
-315,Everton,V. Mykolenko,Defenders,23,33,0,4,0,29,0,7,0,56,16,43,,988,751
+314,Everton,Y. Mina,Defenders,28,4,1,2,0,5,0,3,0,11,3,3,,186,167
+315,Everton,V. Mykolenko,Defenders,23,34,0,4,0,29,0,7,0,58,16,46,,1000,756
 316,Everton,B. Godfrey,Defenders,25,13,0,2,0,10,1,4,0,20,6,8,,225,149
 317,Everton,S. Coleman,Defenders,34,23,1,1,0,10,0,4,0,35,7,22,,603,455
 318,Everton,Rúben Vinagre,Defenders,24,2,0,0,0,,0,,0,2,,,,18,12
@@ -322,82 +322,82 @@
 320,Everton,K. John,Defenders,22,0,0,0,0,,0,,0,,,,,,
 321,Everton,I. Samuels-Smith,Defenders,16,0,0,0,0,,0,,0,,,,,,
 322,Everton,R. Welch,Defenders,19,0,0,0,0,,0,,0,,,,,,
-323,Everton,A. Onana,Midfielders,21,29,1,8,0,43,1,26,0,68,5,33,,879,738
+323,Everton,A. Onana,Midfielders,21,30,1,9,0,43,2,26,0,68,6,33,,882,741
 324,Everton,A. Townsend,Midfielders,31,0,0,0,0,,0,,,,,,,,
-325,Everton,A. Doucouré,Midfielders,30,21,2,5,1,15,2,11,0,25,3,10,,444,354
+325,Everton,A. Doucouré,Midfielders,30,22,4,6,1,16,2,13,0,28,3,11,,465,373
 326,Everton,T. Davies,Midfielders,24,19,0,3,0,10,0,7,0,15,1,4,,231,173
-327,Everton,I. Gueye,Midfielders,33,29,0,6,0,37,1,10,0,83,10,51,,1098,933
-328,Everton,J. Garner,Midfielders,22,12,0,1,0,8,1,4,0,10,,7,,190,153
+327,Everton,I. Gueye,Midfielders,33,30,0,7,0,38,1,10,0,86,12,52,,1121,952
+328,Everton,J. Garner,Midfielders,22,13,0,1,0,10,1,4,0,12,,10,,208,168
 329,Everton,S. Mills,Midfielders,19,0,0,0,0,,0,,0,,,,,,
 330,Everton,I. Price,Midfielders,19,1,0,1,0,,0,,0,,1,,,13,11
-331,Everton,D. McNeil,Forwards,23,32,5,5,0,19,2,23,0,54,5,25,,635,490
-332,Everton,D. Calvert-Lewin,Forwards,26,14,2,2,0,18,0,21,0,3,,2,,180,111
+331,Everton,D. McNeil,Forwards,23,33,7,5,0,20,3,25,0,55,6,25,,655,501
+332,Everton,D. Calvert-Lewin,Forwards,26,15,2,3,0,20,1,22,0,3,,3,,200,121
 333,Everton,D. Gray,Forwards,26,30,4,3,0,22,1,35,0,29,3,11,,629,511
-334,Everton,A. Iwobi,Forwards,27,34,2,2,0,17,6,27,0,67,2,20,,1272,1003
-335,Everton,N. Maupay,Forwards,26,24,1,4,0,12,0,23,0,11,,5,,233,178
+334,Everton,A. Iwobi,Forwards,27,35,2,2,0,18,7,27,0,67,2,21,,1295,1020
+335,Everton,N. Maupay,Forwards,26,25,1,4,0,13,0,23,0,11,,5,,235,179
 336,Everton,E. Simms,Forwards,22,10,1,0,0,,0,4,0,,,,,60,36
-337,Wolverhampton Wanderers,José Sá,Goalkeepers,30,34,0,2,0,1,0,,50,1,,,102,973,642
+337,Wolverhampton Wanderers,José Sá,Goalkeepers,30,35,0,2,0,1,0,,50,1,,,105,996,653
 338,Wolverhampton Wanderers,L. Moulden,Goalkeepers,21,0,0,0,0,,0,,,,,,,,
 339,Wolverhampton Wanderers,D. Bentley,Goalkeepers,29,0,0,0,0,,0,,0,,,,,,
 340,Wolverhampton Wanderers,R. Aït-Nouri,Defenders,21,20,1,4,0,14,0,8,0,33,,9,,450,366
-341,Wolverhampton Wanderers,N. Collins,Defenders,22,23,0,2,1,15,0,1,0,26,24,21,,1027,911
-342,Wolverhampton Wanderers,C. Dawson,Defenders,32,14,1,2,0,9,0,8,0,9,18,7,,764,644
+341,Wolverhampton Wanderers,N. Collins,Defenders,22,24,0,2,1,15,0,1,0,26,24,21,,1027,911
+342,Wolverhampton Wanderers,C. Dawson,Defenders,33,15,1,2,0,9,0,8,0,9,20,8,,799,673
 343,Wolverhampton Wanderers,Jonny,Defenders,29,18,1,3,1,13,0,6,0,34,5,14,,692,582
-344,Wolverhampton Wanderers,Nélson Semedo,Defenders,29,32,0,9,1,40,1,2,0,69,13,27,,1059,858
-345,Wolverhampton Wanderers,M. Kilman,Defenders,25,34,0,3,0,17,0,11,0,35,41,19,,1949,1630
-346,Wolverhampton Wanderers,Toti,Defenders,24,13,0,5,0,11,0,3,0,10,7,8,,370,305
+344,Wolverhampton Wanderers,Nélson Semedo,Defenders,29,33,0,10,1,42,1,2,0,69,14,28,,1090,883
+345,Wolverhampton Wanderers,M. Kilman,Defenders,25,35,0,3,0,18,0,11,0,35,42,19,,1982,1656
+346,Wolverhampton Wanderers,Toti,Defenders,24,14,1,6,0,15,0,4,0,13,8,9,,390,320
 347,Wolverhampton Wanderers,L. Richards,Defenders,21,0,0,0,0,,0,,,,,,,,
 348,Wolverhampton Wanderers,Hugo Bueno,Defenders,20,19,0,1,0,6,1,2,0,32,1,10,,476,403
 349,Wolverhampton Wanderers,D. Lembikisa,Defenders,19,1,0,0,0,,0,,0,,,,,11,9
-350,Wolverhampton Wanderers,M. Lemina,Midfielders,29,15,0,3,0,14,1,5,0,32,4,12,,506,442
+350,Wolverhampton Wanderers,M. Lemina,Midfielders,29,16,0,3,0,18,1,5,0,35,5,14,,536,464
 351,Wolverhampton Wanderers,B. Traoré,Midfielders,21,8,0,2,0,10,1,3,0,10,2,7,,121,97
-352,Wolverhampton Wanderers,Rúben Neves,Midfielders,26,31,6,11,0,31,0,47,0,70,22,47,,1872,1582
+352,Wolverhampton Wanderers,Rúben Neves,Midfielders,26,32,6,11,0,33,1,47,0,72,22,47,,1897,1599
 353,Wolverhampton Wanderers,Daniel Podence,Midfielders,27,30,6,5,0,26,0,31,0,27,,7,,567,400
-354,Wolverhampton Wanderers,Pablo Sarabia,Midfielders,30,12,1,3,0,12,0,12,0,11,,1,,287,223
-355,Wolverhampton Wanderers,Matheus Nunes,Midfielders,24,30,1,1,1,34,1,16,0,64,2,13,,885,727
-356,Wolverhampton Wanderers,João Moutinho,Midfielders,36,30,0,3,0,30,2,10,0,51,6,18,,991,833
+354,Wolverhampton Wanderers,Pablo Sarabia,Midfielders,31,12,1,3,0,12,0,12,0,11,,1,,287,223
+355,Wolverhampton Wanderers,Matheus Nunes,Midfielders,24,31,1,1,1,35,1,17,0,66,3,14,,907,743
+356,Wolverhampton Wanderers,João Moutinho,Midfielders,36,31,0,3,0,31,2,10,0,51,6,18,,991,833
 357,Wolverhampton Wanderers,João Gomes,Midfielders,22,9,1,5,0,14,0,1,0,24,3,4,,233,182
 358,Wolverhampton Wanderers,J. Hodge,Midfielders,20,5,0,1,0,2,0,,0,5,,,,82,67
 359,Wolverhampton Wanderers,H. Griffiths,Midfielders,19,0,0,0,0,,0,,0,,,,,,
-360,Wolverhampton Wanderers,Pedro Neto,Forwards,23,16,0,2,0,7,0,9,0,10,1,3,,280,240
-361,Wolverhampton Wanderers,R. Jiménez,Forwards,31,13,0,0,0,10,1,17,0,9,,,,163,116
-362,Wolverhampton Wanderers,Hwang Hee-Chan,Forwards,27,23,2,1,0,15,1,10,0,20,1,4,,211,164
-363,Wolverhampton Wanderers,Matheus Cunha,Forwards,23,14,2,1,0,18,0,16,0,5,3,7,,192,148
+360,Wolverhampton Wanderers,Pedro Neto,Forwards,23,17,0,2,0,8,0,9,0,11,1,4,,296,253
+361,Wolverhampton Wanderers,R. Jiménez,Forwards,32,13,0,0,0,10,1,17,0,9,,,,163,116
+362,Wolverhampton Wanderers,Hwang Hee-Chan,Forwards,27,24,2,1,0,17,1,10,0,20,1,4,,213,166
+363,Wolverhampton Wanderers,Matheus Cunha,Forwards,23,15,2,1,0,19,0,17,0,7,3,9,,206,157
 364,Wolverhampton Wanderers,S. Kalajdzic,Forwards,25,1,0,0,0,,0,1,0,,,1,,4,2
 365,Wolverhampton Wanderers,Chiquinho,Forwards,23,0,0,0,0,,0,,,,,,,,
-366,Wolverhampton Wanderers,Diego Costa,Forwards,34,20,1,3,1,27,0,20,0,3,1,1,,176,129
-367,Wolverhampton Wanderers,Adama Traoré,Forwards,27,30,2,1,0,15,1,13,0,12,1,3,,364,269
+366,Wolverhampton Wanderers,Diego Costa,Forwards,34,21,1,4,1,27,0,21,0,3,1,1,,188,137
+367,Wolverhampton Wanderers,Adama Traoré,Forwards,27,31,2,1,0,16,1,13,0,12,1,3,,365,270
 368,Wolverhampton Wanderers,N. Fraser,Forwards,18,0,0,0,0,,0,,0,,,,,,
 369,Brighton & Hove Albion,Robert Sánchez,Goalkeepers,25,23,0,2,0,1,0,,30,1,,3,48,673,503
-370,Brighton & Hove Albion,J. Steele,Goalkeepers,32,8,0,1,0,1,1,,10,,,,18,235,206
+370,Brighton & Hove Albion,J. Steele,Goalkeepers,32,10,0,1,0,1,1,,15,,,,24,297,265
 371,Brighton & Hove Albion,T. McGill,Goalkeepers,23,0,0,0,0,,0,,0,,,,,,
 372,Brighton & Hove Albion,T. Lamptey,Defenders,22,20,0,1,0,6,0,4,0,11,3,7,,232,200
-373,Brighton & Hove Albion,A. Webster,Defenders,28,24,0,1,0,9,0,14,0,19,17,18,,1480,1305
-374,Brighton & Hove Albion,L. Dunk,Defenders,31,31,1,2,0,16,0,16,0,26,21,30,,2720,2456
-375,Brighton & Hove Albion,L. Colwill,Defenders,20,11,0,0,0,3,0,4,0,3,1,9,,760,682
+373,Brighton & Hove Albion,A. Webster,Defenders,28,26,0,2,0,10,0,16,0,21,19,19,,1631,1441
+374,Brighton & Hove Albion,L. Dunk,Defenders,31,33,1,4,0,18,0,17,0,27,22,31,,2931,2648
+375,Brighton & Hove Albion,L. Colwill,Defenders,20,13,0,1,0,4,0,6,0,3,2,11,,819,731
 376,Brighton & Hove Albion,J. van Hecke,Defenders,22,4,0,0,0,,0,2,0,2,,4,,100,95
-377,Brighton & Hove Albion,P. Estupiñán,Defenders,25,28,0,3,0,32,4,12,0,49,7,35,,1312,1109
+377,Brighton & Hove Albion,P. Estupiñán,Defenders,25,30,0,3,0,33,4,13,0,53,7,36,,1427,1204
 378,Brighton & Hove Albion,J. Veltman,Defenders,31,28,1,4,0,23,1,11,0,58,8,19,,1236,1055
 379,Brighton & Hove Albion,O. Offiah,Defenders,20,1,0,0,0,,0,,0,,,,,6,4
-380,Brighton & Hove Albion,S. March,Midfielders,28,31,7,2,0,46,7,49,0,52,3,24,,1063,836
-381,Brighton & Hove Albion,A. Mac Allister,Midfielders,24,28,8,7,0,30,1,56,0,58,2,22,,1464,1281
-382,Brighton & Hove Albion,P. Groß,Midfielders,31,31,8,4,0,26,6,21,0,49,8,13,,1705,1455
-383,Brighton & Hove Albion,A. Lallana,Midfielders,34,16,2,0,0,2,1,8,0,9,,2,,310,258
+380,Brighton & Hove Albion,S. March,Midfielders,28,33,7,2,0,46,7,51,0,53,3,24,,1101,865
+381,Brighton & Hove Albion,A. Mac Allister,Midfielders,24,30,10,7,0,32,1,62,0,64,2,22,,1600,1402
+382,Brighton & Hove Albion,P. Groß,Midfielders,31,32,8,4,0,28,6,22,0,51,8,13,,1801,1542
+383,Brighton & Hove Albion,A. Lallana,Midfielders,35,16,2,0,0,2,1,8,0,9,,2,,310,258
 384,Brighton & Hove Albion,J. Moder,Midfielders,24,0,0,0,0,,0,,,,,,,,
-385,Brighton & Hove Albion,J. Enciso,Midfielders,19,13,2,1,0,5,2,20,0,5,,2,,133,100
-386,Brighton & Hove Albion,K. Mitoma,Midfielders,25,26,7,0,0,21,4,28,0,36,,10,,737,618
-387,Brighton & Hove Albion,M. Caicedo,Midfielders,21,30,1,8,0,54,1,11,0,91,4,45,,1813,1611
+385,Brighton & Hove Albion,J. Enciso,Midfielders,19,15,2,1,0,6,2,23,0,7,,2,,169,128
+386,Brighton & Hove Albion,K. Mitoma,Midfielders,25,28,7,0,0,22,4,34,0,40,,14,,800,668
+387,Brighton & Hove Albion,M. Caicedo,Midfielders,21,32,1,9,0,55,1,12,0,93,6,47,,1962,1748
 388,Brighton & Hove Albion,Y. Ayari,Midfielders,19,2,0,0,0,,0,1,0,1,,,,11,10
-389,Brighton & Hove Albion,B. Gilmour,Midfielders,21,8,0,1,0,4,0,2,0,2,,1,,218,202
-390,Brighton & Hove Albion,F. Buonanotte,Midfielders,18,6,1,0,0,2,1,2,0,1,,2,,64,51
-391,Brighton & Hove Albion,C. Peupion,Midfielders,20,0,0,0,0,,0,,,,,,,,
-392,Brighton & Hove Albion,A. Moran,Midfielders,19,1,0,0,0,,0,,0,,,,,2,1
-393,Brighton & Hove Albion,J. Hinshelwood,Midfielders,18,0,0,0,0,,0,,0,,,,,,
-394,Brighton & Hove Albion,J. Hinchy,Midfielders,20,0,0,0,0,,0,,,,,,,,
-395,Brighton & Hove Albion,D. Welbeck,Forwards,32,25,6,0,0,23,3,41,0,13,1,3,,350,292
+389,Brighton & Hove Albion,B. Gilmour,Midfielders,21,10,0,1,0,5,0,2,0,3,1,3,,296,271
+390,Brighton & Hove Albion,F. Buonanotte,Midfielders,18,8,1,0,0,6,1,4,0,1,,3,,106,85
+391,Brighton & Hove Albion,C. Peupion,Midfielders,20,0,0,0,0,,0,,0,,,,,,
+392,Brighton & Hove Albion,J. Hinchy,Midfielders,20,0,0,0,0,,0,,,,,,,,
+393,Brighton & Hove Albion,A. Moran,Midfielders,19,1,0,0,0,,0,,0,,,,,2,1
+394,Brighton & Hove Albion,J. Hinshelwood,Midfielders,18,0,0,0,0,,0,,0,,,,,,
+395,Brighton & Hove Albion,D. Welbeck,Forwards,32,27,6,0,0,24,3,43,0,13,2,4,,386,323
 396,Brighton & Hove Albion,J. Sarmiento,Forwards,20,9,0,1,0,4,1,4,0,6,,1,,64,51
-397,Brighton & Hove Albion,D. Undav,Forwards,26,15,2,0,0,8,0,11,0,5,,,,90,70
-398,Brighton & Hove Albion,E. Ferguson,Forwards,18,13,4,1,0,5,2,19,0,6,1,1,,156,127
+397,Brighton & Hove Albion,D. Undav,Forwards,26,17,2,0,0,9,0,11,0,6,1,,,107,84
+398,Brighton & Hove Albion,E. Ferguson,Forwards,18,14,4,1,0,7,2,21,0,6,1,2,,171,139
 399,West Ham United,Ł. Fabiański,Goalkeepers,38,33,0,1,0,,0,,43,2,,,97,708,407
 400,West Ham United,A. Aréola,Goalkeepers,30,5,0,0,0,1,0,,7,,,,9,77,53
 401,West Ham United,K. Hegyi,Goalkeepers,20,0,0,0,0,,0,,0,,,,,,
@@ -435,234 +435,235 @@
 433,West Ham United,S. Benrahma,Forwards,27,33,6,0,0,16,3,50,0,24,1,9,,656,538
 434,West Ham United,D. Mubama,Forwards,18,1,0,0,0,,0,,0,,,,,1,1
 435,Fulham,M. Rodák,Goalkeepers,26,2,0,0,0,,0,,2,,,,2,58,26
-436,Fulham,B. Leno,Goalkeepers,31,32,0,3,0,,0,,44,,,,128,1037,778
+436,Fulham,B. Leno,Goalkeepers,31,33,0,3,0,1,0,,47,,,,134,1076,811
 437,Fulham,G. Wickens,Goalkeepers,21,0,0,0,0,,0,,0,,,,,,
-438,Fulham,K. Tete,Defenders,27,27,0,8,0,34,4,8,0,73,15,44,,940,711
+438,Fulham,K. Tete,Defenders,27,28,0,8,0,35,5,9,0,75,15,45,,980,740
 439,Fulham,L. Kurzawa,Defenders,30,3,0,1,0,1,0,,0,3,1,2,,27,19
-440,Fulham,T. Adarabioyo,Defenders,25,21,1,3,0,14,0,7,0,22,13,22,,1042,848
-441,Fulham,S. Duffy,Defenders,31,0,0,0,0,,0,,0,,,,,4,2
+440,Fulham,T. Adarabioyo,Defenders,25,22,1,3,0,15,0,9,0,22,13,22,,1098,897
+441,Fulham,S. Duffy,Defenders,31,1,0,0,0,,0,1,0,,,,,20,16
 442,Fulham,Cédric Soares,Defenders,31,6,0,0,0,1,0,,0,8,1,1,,136,116
 443,Fulham,T. Ream,Defenders,35,33,1,2,0,18,0,3,0,30,24,41,,1900,1652
-444,Fulham,I. Diop,Defenders,26,21,1,2,0,15,0,2,0,23,14,30,,1161,995
-445,Fulham,A. Robinson,Defenders,25,31,0,7,0,28,1,3,0,57,11,46,,1270,973
+444,Fulham,I. Diop,Defenders,26,22,1,2,0,16,0,2,0,25,15,30,,1215,1047
+445,Fulham,A. Robinson,Defenders,25,32,0,7,0,28,1,3,0,57,12,49,,1320,1011
 446,Fulham,S. Parkes,Defenders,19,0,0,0,0,,0,,0,,,,,,
 447,Fulham,L. D'Auria-Henry,Defenders,20,0,0,0,0,,0,,,,,,,,
 448,Fulham,C. Robinson,Defenders,18,0,0,0,0,,0,,0,,,,,,
-449,Fulham,H. Reed,Midfielders,28,33,3,5,0,32,2,12,0,41,9,18,,1072,859
-450,Fulham,N. Kebano,Midfielders,31,15,0,0,0,8,3,8,0,12,,1,,179,144
-451,Fulham,H. Wilson,Midfielders,26,25,2,1,0,8,1,11,0,18,1,4,,271,218
-452,Fulham,T. Cairney,Midfielders,32,29,0,2,0,6,0,5,0,15,2,4,,535,472
+449,Fulham,H. Reed,Midfielders,28,34,3,5,0,33,3,13,0,42,10,18,,1118,892
+450,Fulham,N. Kebano,Midfielders,31,16,0,0,0,8,3,8,0,15,,1,,185,148
+451,Fulham,H. Wilson,Midfielders,26,26,2,1,0,9,2,11,0,18,1,4,,309,246
+452,Fulham,T. Cairney,Midfielders,32,30,2,2,0,8,0,7,0,17,3,4,,586,519
 453,Fulham,Andreas Pereira,Midfielders,27,33,4,8,0,41,6,48,0,18,3,6,,853,628
 454,Fulham,D. James,Midfielders,25,19,2,0,0,2,1,10,0,9,1,1,,155,110
-455,Fulham,João Palhinha,Midfielders,27,31,3,12,0,38,0,26,0,128,4,40,,1107,918
-456,Fulham,S. Lukić,Midfielders,26,9,0,1,0,11,0,2,0,7,1,4,,178,157
+455,Fulham,João Palhinha,Midfielders,27,32,3,12,0,41,0,27,0,138,5,42,,1162,962
+456,Fulham,S. Lukić,Midfielders,26,10,0,1,0,11,0,2,0,7,1,4,,185,163
 457,Fulham,T. Francois,Midfielders,22,0,0,0,0,,0,,0,,,,,2,2
 458,Fulham,L. Harris,Midfielders,18,3,0,0,0,,0,,0,,,,,,
 459,Fulham,K. Šekularac,Midfielders,19,0,0,0,0,,0,,0,,,,,,
-460,Fulham,A. Mitrović,Forwards,28,21,11,6,0,31,1,69,0,14,5,3,,442,267
-461,Fulham,M. Solomon,Forwards,23,15,4,0,0,4,0,6,0,21,,4,,176,154
-462,Fulham,B. De Cordova-Reid,Forwards,30,33,4,8,0,33,1,22,0,40,3,20,,770,559
-463,Fulham,Willian,Forwards,34,23,3,2,0,10,3,23,0,12,,9,,703,578
-464,Fulham,Carlos Vinícius,Forwards,28,25,3,3,0,20,1,14,0,4,,,,150,96
-465,Fulham,C. McFarlane,Forwards,19,0,0,0,0,,0,,,,,,,,
-466,Fulham,T. Ablade,Forwards,21,0,0,0,0,,0,,0,,,,,,
-467,Fulham,M. Godo,Forwards,20,0,0,0,0,,0,,0,,,,,,
-468,Brentford,David Raya,Goalkeepers,27,34,0,1,0,,0,1,44,,,1,138,1297,795
-469,Brentford,T. Strakosha,Goalkeepers,28,0,0,0,0,,0,,0,,,,,,
-470,Brentford,M. Cox,Goalkeepers,20,0,0,0,0,,0,,0,,,,,,
-471,Brentford,A. Hickey,Defenders,20,22,0,6,0,17,0,6,0,37,6,17,,610,516
-472,Brentford,R. Henry,Defenders,25,33,0,2,0,27,2,9,0,54,7,26,,844,623
-473,Brentford,E. Pinnock,Defenders,29,26,2,0,0,6,0,10,0,46,24,32,,938,742
-474,Brentford,M. Jørgensen,Defenders,33,15,0,1,0,6,0,4,0,14,12,14,,364,294
-475,Brentford,B. Mee,Defenders,33,33,3,2,0,12,1,19,0,37,34,45,,1481,1129
-476,Brentford,P. Jansson,Defenders,32,12,1,0,0,2,0,4,0,5,9,9,,315,252
-477,Brentford,K. Ajer,Defenders,25,9,0,0,0,5,0,1,0,11,5,7,,294,224
-478,Brentford,M. Rasmussen,Defenders,23,17,0,0,0,4,0,3,0,21,5,9,,255,166
-479,Brentford,T. Crama,Defenders,21,0,0,0,0,,0,,0,,,,,,
-480,Brentford,F. Stevens,Defenders,20,0,0,0,0,,0,,0,,,,,,
-481,Brentford,C. Nørgaard,Midfielders,29,22,1,6,0,35,3,15,0,52,9,34,,793,605
-482,Brentford,M. Jensen,Midfielders,27,34,5,5,0,31,5,16,0,66,5,30,,1096,828
-483,Brentford,K. Schade,Midfielders,21,14,0,2,0,12,1,8,0,10,,4,,109,68
-484,Brentford,J. Dasilva,Midfielders,24,32,4,1,0,14,2,11,0,18,6,4,,545,453
-485,Brentford,Y. Wissa,Midfielders,26,34,5,2,0,19,2,23,0,15,,6,,276,201
-486,Brentford,F. Onyeka,Midfielders,25,17,0,0,0,11,2,5,0,15,2,6,,192,142
-487,Brentford,B. Mbeumo,Midfielders,23,34,6,4,0,23,6,47,0,23,,9,,704,517
-488,Brentford,M. Damsgaard,Midfielders,22,22,0,3,0,11,0,6,0,21,1,10,,299,215
-489,Brentford,S. Baptiste,Midfielders,25,19,0,2,0,10,1,2,0,12,1,7,,261,225
-490,Brentford,V. Janelt,Midfielders,24,31,3,2,0,18,1,9,0,49,8,26,,827,656
-491,Brentford,R. Trevitt,Midfielders,20,0,0,0,0,,0,,0,,,,,,
-492,Brentford,E. Yarmolyuk,Midfielders,19,0,0,0,0,,0,,0,,,,,,
-493,Brentford,S. Ghoddos,Forwards,29,13,0,0,0,1,0,1,0,2,1,4,,63,49
-494,Brentford,I. Toney,Forwards,27,32,20,9,0,50,4,77,0,22,9,13,,718,439
-495,Brentford,K. Lewis-Potter,Forwards,22,10,0,0,0,1,1,4,0,1,1,,,76,46
-496,Brentford,A. Gilbert,Forwards,21,0,0,0,0,,0,,,,,,,,
-497,Brentford,M. Olakigbe,Forwards,19,0,0,0,0,,0,,0,,,,,,
-498,Brentford,N. Young-Coombes,Forwards,20,0,0,0,0,,0,,,,,,,,
-499,Aston Villa,E. Martínez,Goalkeepers,30,32,0,6,0,,0,,34,,,1,89,1095,795
-500,Aston Villa,J. Steer,Goalkeepers,30,0,0,0,0,,0,,,,,,,,
-501,Aston Villa,R. Olsen,Goalkeepers,33,4,0,0,0,,0,,8,,,,11,111,58
-502,Aston Villa,V. Sinisalo,Goalkeepers,21,0,0,0,0,,0,,0,,,,,,
-503,Aston Villa,O. Zych,Goalkeepers,18,0,0,0,0,,0,,0,,,,,,
-504,Aston Villa,J. Wright,Goalkeepers,18,0,0,0,0,,0,,0,,,,,,
-505,Aston Villa,M. Cash,Defenders,25,23,0,3,0,18,1,4,0,48,4,24,,736,585
-506,Aston Villa,Diego Carlos,Defenders,30,2,0,0,0,1,0,3,0,1,2,1,,125,100
-507,Aston Villa,E. Konsa,Defenders,25,34,0,5,0,10,0,6,0,37,19,19,,1693,1505
-508,Aston Villa,T. Mings,Defenders,30,31,1,4,0,16,2,3,0,12,21,40,,1720,1466
-509,Aston Villa,Álex Moreno,Defenders,29,16,0,3,0,16,3,10,0,17,3,5,,511,406
-510,Aston Villa,C. Chambers,Defenders,28,14,0,2,0,7,0,1,0,9,4,7,,192,152
-511,Aston Villa,A. Young,Defenders,37,26,1,5,0,24,0,6,0,45,10,18,,876,674
-512,Aston Villa,L. Digne,Defenders,29,25,1,4,0,18,0,6,0,27,5,16,,659,518
-513,Aston Villa,S. Swinkels,Defenders,19,0,0,0,0,,0,,0,,,,,,
-514,Aston Villa,S. Revan,Defenders,19,0,0,0,0,,0,,0,,,,,,
-515,Aston Villa,Douglas Luiz,Midfielders,24,33,4,5,1,42,5,18,0,68,7,39,,1503,1300
-516,Aston Villa,J.  McGinn,Midfielders,28,30,1,5,0,31,3,25,0,59,4,19,,845,688
-517,Aston Villa,E. Buendía,Midfielders,26,34,5,0,0,42,2,25,0,51,1,20,,931,735
-518,Aston Villa,Philippe Coutinho,Midfielders,30,20,1,3,0,16,0,16,0,19,1,4,,357,280
-519,Aston Villa,L. Dendoncker,Midfielders,28,19,0,0,0,1,0,1,0,19,4,8,,278,247
-520,Aston Villa,J. Ramsey,Midfielders,21,31,4,4,0,31,5,19,0,64,8,21,,783,658
-521,Aston Villa,B. Kamara,Midfielders,23,20,0,4,0,25,1,4,0,49,11,17,,876,744
-522,Aston Villa,T. O'Reilly,Midfielders,19,0,0,0,0,,0,,0,,,,,,
-523,Aston Villa,T. Patterson,Midfielders,17,0,0,0,0,,0,,0,,,,,,
-524,Aston Villa,K. Young,Midfielders,17,0,0,0,0,,0,,0,,,,,,
-525,Aston Villa,B. Traoré,Forwards,27,7,2,1,0,2,0,3,0,1,,1,,54,43
-526,Aston Villa,O. Watkins,Forwards,27,33,14,2,0,24,6,63,0,16,4,8,,502,353
-527,Aston Villa,J. Durán,Forwards,19,9,0,1,0,7,0,5,0,,,1,,20,12
-528,Aston Villa,L. Bailey,Forwards,25,29,4,4,0,28,3,30,0,11,,5,,399,278
-529,Nottingham Forest,D. Henderson,Goalkeepers,26,18,0,2,0,1,0,,31,,,,55,562,319
-530,Nottingham Forest,K. Navas,Goalkeepers,36,14,0,2,0,,0,,27,,,1,42,391,216
-531,Nottingham Forest,W. Hennessey,Goalkeepers,36,2,0,0,0,,0,,4,1,,,7,48,37
-532,Nottingham Forest,G. Shelvey,Goalkeepers,22,0,0,0,0,,0,,0,,,,,,
-533,Nottingham Forest,G. Biancone,Defenders,23,2,0,0,0,,0,,0,2,,1,,18,13
-534,Nottingham Forest,S. Cook,Defenders,32,12,0,4,0,5,0,3,0,8,11,12,,455,367
-535,Nottingham Forest,J. Worrall,Defenders,26,26,1,6,0,23,0,5,0,43,19,21,,1001,790
-536,Nottingham Forest,N. Williams,Defenders,22,31,1,7,0,33,0,20,0,72,8,33,,603,403
-537,Nottingham Forest,H. Toffolo,Defenders,27,16,0,2,0,8,0,5,0,16,8,9,,271,174
-538,Nottingham Forest,M. Niakhaté,Defenders,27,10,0,0,0,11,0,5,0,10,7,13,,207,159
-539,Nottingham Forest,S. Aurier,Defenders,30,20,1,2,0,16,0,7,0,53,9,25,,638,469
-540,Nottingham Forest,S. McKenna,Defenders,26,20,0,4,0,8,0,2,0,12,14,12,,700,555
-541,Nottingham Forest,O. Richards,Defenders,25,0,0,0,0,,0,,,,,,,,
-542,Nottingham Forest,W. Boly,Defenders,32,8,0,2,0,4,1,,0,13,4,12,,239,180
-543,Nottingham Forest,Renan Lodi,Defenders,25,24,0,5,0,22,0,4,0,43,6,27,,607,442
-544,Nottingham Forest,Felipe,Defenders,33,13,0,4,0,11,1,6,0,34,10,28,,493,361
-545,Nottingham Forest,Z. Abbott,Defenders,16,0,0,0,0,,0,,,,,,,,
-546,Nottingham Forest,O. Mangala,Midfielders,25,23,1,3,0,16,0,7,0,20,6,16,,424,344
-547,Nottingham Forest,J. Shelvey,Midfielders,31,8,0,2,0,9,0,3,0,2,2,5,,288,216
-548,Nottingham Forest,J. Colback,Midfielders,33,11,0,0,0,9,0,,0,18,,3,,141,117
-549,Nottingham Forest,M. Gibbs-White,Midfielders,23,31,4,3,0,29,6,38,0,23,3,12,,805,563
-550,Nottingham Forest,J. Lingard,Midfielders,30,17,0,1,0,8,0,4,0,4,,5,,282,229
-551,Nottingham Forest,Cafú,Midfielders,30,1,0,0,0,,0,,0,,,,,2,2
-552,Nottingham Forest,C. Kouyaté,Midfielders,33,17,1,3,0,21,0,5,0,25,2,9,,225,169
-553,Nottingham Forest,R. Yates,Midfielders,25,22,0,4,0,40,2,19,0,28,8,8,,492,390
-554,Nottingham Forest,R. Freuler,Midfielders,31,28,0,4,0,24,0,5,0,43,9,29,,828,659
-555,Nottingham Forest,Danilo,Midfielders,22,10,2,1,0,3,1,9,0,15,5,6,,184,122
-556,Nottingham Forest,Gustavo Scarpa,Midfielders,29,6,0,1,0,4,0,3,0,5,,,,71,48
-557,Nottingham Forest,O. Hammond,Midfielders,20,0,0,0,0,,0,,0,,,,,,
-558,Nottingham Forest,H. Arter,Midfielders,33,0,0,0,0,,0,,,,,,,,
-559,Nottingham Forest,A. Gibson-Hammond,Midfielders,20,0,0,0,0,,0,,,,,,,,
-560,Nottingham Forest,T. Awoniyi,Forwards,25,23,4,1,0,16,1,25,0,14,4,3,,174,120
-561,Nottingham Forest,S. Surridge,Forwards,24,18,1,2,0,11,0,7,0,5,2,,,71,36
-562,Nottingham Forest,A. Mighten,Forwards,21,0,0,0,0,,0,,0,,,,,1,1
-563,Nottingham Forest,B. Johnson,Forwards,21,34,8,6,0,35,2,45,0,29,1,4,,413,260
-564,Nottingham Forest,E. Dennis,Forwards,25,18,2,3,0,13,2,12,0,16,1,2,,162,115
-565,Nottingham Forest,L. Taylor,Forwards,33,0,0,0,0,,0,,0,,,,,,
-566,Nottingham Forest,A. Ayew,Forwards,33,12,0,1,0,3,0,3,0,5,1,,,70,51
-567,Nottingham Forest,C. Wood,Forwards,31,7,1,0,0,2,0,1,0,,1,1,,71,43
-568,Nottingham Forest,D. Osong,Forwards,18,0,0,0,0,,0,,,,,,,,
-569,Newcastle United,M. Dúbravka,Goalkeepers,34,1,0,0,0,,0,,0,,,,5,15,12
-570,Newcastle United,L. Karius,Goalkeepers,29,0,0,0,0,,0,,0,,,,,,
-571,Newcastle United,N. Pope,Goalkeepers,31,33,0,3,1,1,0,,27,1,,,78,599,348
-572,Newcastle United,M. Gillespie,Goalkeepers,31,0,0,0,0,,0,,,,,,,,
-573,Newcastle United,K. Trippier,Defenders,32,33,1,5,0,41,6,5,0,65,12,38,,1759,1327
-574,Newcastle United,P. Dummett,Defenders,31,0,0,0,0,,0,,0,,,,,,
-575,Newcastle United,S. Botman,Defenders,23,31,0,2,0,13,0,14,0,33,21,31,,1494,1285
-576,Newcastle United,F. Schär,Defenders,31,31,1,5,0,16,3,36,0,42,17,46,,1541,1192
-577,Newcastle United,J. Lascelles,Defenders,29,7,0,4,0,6,0,1,0,1,2,,,93,79
-578,Newcastle United,J. Lewis,Defenders,25,1,0,0,0,,0,,0,,,,,12,10
-579,Newcastle United,M. Targett,Defenders,27,14,0,1,0,7,0,,0,12,1,8,,291,239
-580,Newcastle United,E. Krafth,Defenders,28,1,0,0,0,,0,,0,,,,,,
-581,Newcastle United,Javier Manquillo,Defenders,28,3,0,0,0,,0,,0,3,,1,,24,20
-582,Newcastle United,H. Ashby,Defenders,21,0,0,0,0,,0,,,,,,,,
-583,Newcastle United,D. Burn,Defenders,30,33,0,5,0,30,0,13,0,53,14,30,,1253,981
-584,Newcastle United,M. Ritchie,Midfielders,33,7,0,0,0,,0,,0,1,,1,,29,23
-585,Newcastle United,R. Fraser,Midfielders,29,8,0,1,0,3,0,4,0,2,1,,,104,80
-586,Newcastle United,J. Murphy,Midfielders,28,33,4,0,0,8,2,20,0,15,,6,,356,255
-587,Newcastle United,M. Almirón,Midfielders,29,29,11,2,0,18,1,33,0,39,2,7,,800,674
-588,Newcastle United,M. Longstaff,Midfielders,23,0,0,0,0,,0,,,,,,,,
-589,Newcastle United,J. Willock,Midfielders,23,32,3,1,0,30,6,34,0,48,8,24,,835,709
-590,Newcastle United,E. Anderson,Midfielders,20,17,0,0,0,4,0,5,0,9,1,4,,104,77
-591,Newcastle United,S. Longstaff,Midfielders,25,32,1,2,0,25,4,16,0,42,8,16,,1076,888
-592,Newcastle United,Bruno Guimarães,Midfielders,25,27,3,4,0,35,5,17,0,68,4,27,,1350,1137
-593,Newcastle United,L. Miley,Midfielders,17,0,0,0,0,,0,,0,,,,,,
-594,Newcastle United,Joelinton,Forwards,26,29,6,12,0,53,1,36,0,64,6,41,,1116,919
-595,Newcastle United,A. Gordon,Forwards,22,11,0,1,0,5,0,4,0,12,,2,,152,131
-596,Newcastle United,C. Wilson,Forwards,31,26,15,3,0,21,4,52,0,8,,1,,201,140
-597,Newcastle United,A. Saint-Maximin,Forwards,26,20,1,1,0,4,5,17,0,6,,4,,357,263
-598,Newcastle United,A. Isak,Forwards,23,17,10,2,0,14,1,25,0,12,1,3,,227,172
-599,Leeds United,I. Meslier,Goalkeepers,23,34,0,3,0,1,0,1,67,2,,1,94,843,472
-600,Leeds United,K. Klaesson,Goalkeepers,22,0,0,0,0,,0,,0,,,,,,
-601,Leeds United,Joel Robles,Goalkeepers,32,0,0,0,0,,0,,0,,,,,,
-602,Leeds United,D. van den Heuvel,Goalkeepers,19,0,0,0,0,,0,,,,,,,,
-603,Leeds United,H. Christy,Goalkeepers,19,0,0,0,0,,0,,,,,,,,
-604,Leeds United,L. Ayling,Defenders,31,25,1,3,0,13,1,14,0,57,9,22,,736,510
-605,Leeds United,Junior Firpo,Defenders,26,16,1,5,0,19,1,1,0,40,7,20,,447,334
-606,Leeds United,R. Koch,Defenders,26,33,0,6,0,32,0,8,0,46,18,42,,1496,1160
-607,Leeds United,L. Cooper,Defenders,31,17,1,4,0,12,0,8,0,34,8,32,,725,569
-608,Leeds United,S. Dallas,Defenders,32,0,0,0,0,,0,,,,,,,,
-609,Leeds United,P. Struijk,Defenders,23,25,2,4,0,25,1,10,0,74,12,30,,1008,812
-610,Leeds United,R. Kristensen,Defenders,25,22,2,4,0,19,1,9,0,56,11,30,,695,467
-611,Leeds United,Diogo Monteiro,Defenders,18,0,0,0,0,,0,,0,,,,,,
-612,Leeds United,M. Wöber,Defenders,25,12,0,2,0,10,0,4,0,23,10,18,,527,377
-613,Leeds United,K. Moore,Defenders,19,0,0,0,0,,0,,,,,,,,
-614,Leeds United,J. Debayo,Defenders,17,0,0,0,0,,0,,,,,,,,
-615,Leeds United,J. Chilokoa-Mullen,Defenders,18,0,0,0,0,,0,,0,,,,,,
-616,Leeds United,A. Forshaw,Midfielders,31,8,0,0,0,3,0,,0,3,,2,,91,78
-617,Leeds United,B. Aaronson,Midfielders,22,32,1,2,0,16,3,28,0,43,3,5,,692,551
-618,Leeds United,Marc Roca,Midfielders,26,30,1,7,0,39,2,21,0,65,10,23,,1189,948
-619,Leeds United,C. Summerville,Midfielders,21,26,4,3,0,21,2,17,0,30,2,12,,386,302
-620,Leeds United,J. Harrison,Midfielders,26,32,4,2,0,34,7,24,0,40,2,21,,865,609
-621,Leeds United,T. Adams,Midfielders,24,24,0,5,0,37,0,2,0,89,8,35,,1323,1090
-622,Leeds United,D. Gyabi,Midfielders,19,1,0,0,0,,0,,0,2,,,,4,4
-623,Leeds United,A. Miller,Midfielders,20,0,0,0,0,,0,,,,,,,,
-624,Leeds United,W. McKennie,Midfielders,24,15,0,6,0,19,0,6,0,24,3,19,,504,392
-625,Leeds United,C. Allen,Midfielders,19,0,0,0,0,,0,,,,,,,,
-626,Leeds United,J. Snowdon,Midfielders,19,0,0,0,0,,0,,,,,,,,
-627,Leeds United,A. Gray,Midfielders,17,0,0,0,0,,0,,0,,,,,,
-628,Leeds United,P. Bamford,Forwards,29,25,4,2,0,19,2,33,0,9,5,5,,290,205
-629,Leeds United,S. Perkins,Forwards,19,0,0,0,0,,0,,0,,,,,,
-630,Leeds United,Rodrigo,Forwards,32,27,11,4,0,22,1,42,0,20,2,6,,466,339
-631,Leeds United,L. Sinisterra,Forwards,23,19,5,2,0,14,0,22,0,21,1,8,,329,268
-632,Leeds United,G. Rutter,Forwards,21,10,0,0,0,5,0,1,0,9,,3,,51,25
-633,Leeds United,W. Gnonto,Forwards,19,20,2,5,0,23,4,14,0,23,1,5,,412,315
-634,Leeds United,S. Greenwood,Forwards,21,15,1,1,0,8,2,6,0,11,2,1,,125,82
-635,Leeds United,Mateo Joseph,Forwards,19,3,0,0,0,,0,1,0,,,,,2,1
-636,Crystal Palace,Guaita,Goalkeepers,36,27,0,1,0,1,0,,34,,,,85,701,473
-637,Crystal Palace,S. Johnstone,Goalkeepers,30,5,0,1,0,1,0,,6,,,,19,140,94
-638,Crystal Palace,J. Whitworth,Goalkeepers,19,2,0,0,0,,0,,5,,,,5,75,53
-639,Crystal Palace,O.Goodman,Goalkeepers,19,0,0,0,0,,0,,0,,,,,,
-640,Crystal Palace,J. Ward,Defenders,33,24,0,5,0,24,0,1,0,39,15,21,,821,611
-641,Crystal Palace,T. Mitchell,Defenders,23,32,0,5,1,29,2,3,0,62,9,39,,1034,743
-642,Crystal Palace,J. Tomkins,Defenders,34,6,1,2,0,3,0,2,0,4,2,5,,171,138
-643,Crystal Palace,M. Guéhi,Defenders,22,33,1,8,0,23,0,10,0,48,23,41,,1892,1610
-644,Crystal Palace,J. Andersen,Defenders,26,28,1,7,0,24,0,19,0,34,13,21,,1613,1277
-645,Crystal Palace,N. Clyne,Defenders,32,22,0,3,0,10,0,,0,27,4,19,,660,533
-646,Crystal Palace,C. Richards,Defenders,23,9,0,0,0,2,0,3,0,9,1,8,,195,164
-647,Crystal Palace,N. Ferguson,Defenders,22,0,0,0,0,,0,,,,,,,,
-648,Crystal Palace,J. Riedewald,Defenders,26,4,0,0,0,1,0,,0,2,,,,31,24
-649,Crystal Palace,L. Milivojević,Midfielders,32,18,0,2,0,15,0,5,0,13,4,12,,252,204
-650,Crystal Palace,M. Olise,Midfielders,21,33,2,2,0,24,9,21,0,51,1,23,,1005,790
-651,Crystal Palace,A. Lokonga,Midfielders,23,9,0,2,0,7,0,2,0,13,3,7,,259,227
-652,Crystal Palace,E. Eze,Midfielders,24,34,8,3,0,24,3,44,0,38,,10,,941,773
-653,Crystal Palace,J. Schlupp,Midfielders,30,33,3,6,0,50,1,19,0,63,8,23,,834,627
-654,Crystal Palace,J. McArthur,Midfielders,35,2,0,0,0,,0,,0,1,,,,22,17
-655,Crystal Palace,W. Hughes,Midfielders,28,23,0,4,0,16,1,2,0,22,5,10,,251,201
-656,Crystal Palace,C. Doucouré,Midfielders,23,30,0,10,0,34,3,21,0,73,11,52,,1087,905
-657,Crystal Palace,N. Ahamada,Midfielders,21,7,0,1,0,2,0,3,0,3,,,,44,37
-658,Crystal Palace,K. Balmer,Midfielders,22,0,0,0,0,,0,,0,,,,,,
-659,Crystal Palace,J. Wells-Morrison,Midfielders,19,0,0,0,0,,0,,0,,,,,,
-660,Crystal Palace,D. Ozoh,Midfielders,17,1,0,0,0,,0,,0,,,,,3,3
-661,Crystal Palace,K. Rodney,Midfielders,18,0,0,0,0,,0,,0,,,,,,
-662,Crystal Palace,J. Ayew,Forwards,31,34,4,4,0,44,2,18,0,62,2,15,,724,579
-663,Crystal Palace,W. Zaha,Forwards,30,25,7,4,0,32,2,37,0,32,1,15,,543,440
-664,Crystal Palace,J. Mateta,Forwards,25,27,2,3,0,14,0,19,0,6,1,3,,141,98
-665,Crystal Palace,O. Édouard,Forwards,25,31,4,3,0,26,2,23,0,24,5,3,,370,270
-666,Crystal Palace,Adler Nascimento,Forwards,18,0,0,0,0,,0,,,,,,,,
+460,Fulham,M. Dibley-Dias,Midfielders,19,0,0,0,0,,0,,0,,,,,,
+461,Fulham,A. Mitrović,Forwards,28,21,11,6,0,31,1,69,0,14,5,3,,442,267
+462,Fulham,M. Solomon,Forwards,23,16,4,0,0,4,0,6,0,21,,4,,181,157
+463,Fulham,B. De Cordova-Reid,Forwards,30,34,4,8,0,33,1,22,0,42,3,20,,770,559
+464,Fulham,Willian,Forwards,34,24,5,2,0,11,3,25,0,12,,9,,733,604
+465,Fulham,Carlos Vinícius,Forwards,28,26,4,3,0,21,2,16,0,4,,,,168,109
+466,Fulham,C. McFarlane,Forwards,19,0,0,0,0,,0,,,,,,,,
+467,Fulham,T. Ablade,Forwards,21,0,0,0,0,,0,,0,,,,,,
+468,Fulham,M. Godo,Forwards,20,0,0,0,0,,0,,0,,,,,,
+469,Brentford,David Raya,Goalkeepers,27,35,0,1,0,,0,1,45,,,1,142,1339,817
+470,Brentford,T. Strakosha,Goalkeepers,28,0,0,0,0,,0,,0,,,,,,
+471,Brentford,M. Cox,Goalkeepers,20,0,0,0,0,,0,,0,,,,,,
+472,Brentford,A. Hickey,Defenders,20,23,0,6,0,19,0,6,0,38,7,17,,632,533
+473,Brentford,R. Henry,Defenders,25,34,0,3,0,28,2,10,0,54,7,28,,873,647
+474,Brentford,E. Pinnock,Defenders,29,27,2,0,0,6,0,10,0,47,25,33,,968,766
+475,Brentford,M. Jørgensen,Defenders,33,16,0,1,0,7,0,4,0,15,12,14,,401,321
+476,Brentford,B. Mee,Defenders,33,34,3,2,0,12,1,20,0,37,35,46,,1514,1157
+477,Brentford,P. Jansson,Defenders,32,12,1,0,0,2,0,4,0,5,9,9,,315,252
+478,Brentford,K. Ajer,Defenders,25,9,0,0,0,5,0,1,0,11,5,7,,294,224
+479,Brentford,M. Rasmussen,Defenders,23,17,0,0,0,4,0,3,0,21,5,9,,255,166
+480,Brentford,T. Crama,Defenders,21,0,0,0,0,,0,,0,,,,,,
+481,Brentford,F. Stevens,Defenders,20,0,0,0,0,,0,,0,,,,,,
+482,Brentford,C. Nørgaard,Midfielders,29,22,1,6,0,35,3,15,0,52,9,34,,793,605
+483,Brentford,M. Jensen,Midfielders,27,35,5,5,0,31,5,16,0,69,5,32,,1125,848
+484,Brentford,K. Schade,Midfielders,21,15,0,2,0,12,1,8,0,10,,4,,112,70
+485,Brentford,J. Dasilva,Midfielders,24,33,4,1,0,14,2,11,0,18,6,5,,548,455
+486,Brentford,Y. Wissa,Midfielders,26,35,5,2,0,19,2,23,0,15,,6,,277,201
+487,Brentford,F. Onyeka,Midfielders,25,18,0,0,0,12,2,5,0,16,2,6,,207,153
+488,Brentford,B. Mbeumo,Midfielders,23,35,6,5,0,25,6,48,0,23,,9,,726,529
+489,Brentford,M. Damsgaard,Midfielders,22,23,0,3,0,12,0,6,0,22,1,10,,302,218
+490,Brentford,S. Baptiste,Midfielders,25,20,0,2,0,10,1,2,0,14,1,7,,268,231
+491,Brentford,V. Janelt,Midfielders,25,32,3,2,0,18,1,9,0,49,9,26,,859,685
+492,Brentford,R. Trevitt,Midfielders,20,0,0,0,0,,0,,0,,,,,,
+493,Brentford,E. Yarmolyuk,Midfielders,19,0,0,0,0,,0,,0,,,,,,
+494,Brentford,S. Ghoddos,Forwards,29,13,0,0,0,1,0,1,0,2,1,4,,63,49
+495,Brentford,I. Toney,Forwards,27,33,20,9,0,52,4,78,0,23,9,14,,736,456
+496,Brentford,K. Lewis-Potter,Forwards,22,10,0,0,0,1,1,4,0,1,1,,,76,46
+497,Brentford,A. Gilbert,Forwards,21,0,0,0,0,,0,,,,,,,,
+498,Brentford,M. Olakigbe,Forwards,19,0,0,0,0,,0,,0,,,,,,
+499,Brentford,N. Young-Coombes,Forwards,20,0,0,0,0,,0,,,,,,,,
+500,Aston Villa,E. Martínez,Goalkeepers,30,33,0,6,0,,0,,35,,,1,90,1124,822
+501,Aston Villa,J. Steer,Goalkeepers,30,0,0,0,0,,0,,,,,,,,
+502,Aston Villa,R. Olsen,Goalkeepers,33,4,0,0,0,,0,,8,,,,11,111,58
+503,Aston Villa,V. Sinisalo,Goalkeepers,21,0,0,0,0,,0,,0,,,,,,
+504,Aston Villa,O. Zych,Goalkeepers,18,0,0,0,0,,0,,0,,,,,,
+505,Aston Villa,J. Wright,Goalkeepers,18,0,0,0,0,,0,,0,,,,,,
+506,Aston Villa,M. Cash,Defenders,25,23,0,3,0,18,1,4,0,48,4,24,,736,585
+507,Aston Villa,Diego Carlos,Defenders,30,3,0,0,0,2,0,3,0,1,2,1,,139,111
+508,Aston Villa,E. Konsa,Defenders,25,35,0,5,0,11,0,6,0,39,20,21,,1756,1561
+509,Aston Villa,T. Mings,Defenders,30,32,1,5,0,16,2,4,0,12,21,43,,1787,1529
+510,Aston Villa,Álex Moreno,Defenders,29,17,0,3,0,16,3,10,0,19,3,5,,541,429
+511,Aston Villa,C. Chambers,Defenders,28,14,0,2,0,7,0,1,0,9,4,7,,192,152
+512,Aston Villa,A. Young,Defenders,37,27,1,5,0,24,0,7,0,46,10,18,,917,710
+513,Aston Villa,L. Digne,Defenders,29,26,1,4,0,18,0,6,0,27,5,17,,662,520
+514,Aston Villa,S. Swinkels,Defenders,19,0,0,0,0,,0,,0,,,,,,
+515,Aston Villa,S. Revan,Defenders,19,0,0,0,0,,0,,0,,,,,,
+516,Aston Villa,Douglas Luiz,Midfielders,25,34,4,6,1,44,5,18,0,68,7,39,,1554,1345
+517,Aston Villa,J.  McGinn,Midfielders,28,31,1,5,0,33,3,25,0,62,4,19,,894,730
+518,Aston Villa,E. Buendía,Midfielders,26,35,5,0,0,42,2,28,0,51,2,20,,957,753
+519,Aston Villa,Philippe Coutinho,Midfielders,30,20,1,3,0,16,0,16,0,19,1,4,,357,280
+520,Aston Villa,L. Dendoncker,Midfielders,28,19,0,0,0,1,0,1,0,19,4,8,,278,247
+521,Aston Villa,J. Ramsey,Midfielders,21,32,4,4,0,32,5,19,0,65,8,22,,802,674
+522,Aston Villa,B. Kamara,Midfielders,23,21,0,4,0,25,1,4,0,49,11,17,,878,746
+523,Aston Villa,T. O'Reilly,Midfielders,19,0,0,0,0,,0,,0,,,,,,
+524,Aston Villa,T. Patterson,Midfielders,17,0,0,0,0,,0,,0,,,,,,
+525,Aston Villa,K. Young,Midfielders,17,0,0,0,0,,0,,0,,,,,,
+526,Aston Villa,B. Traoré,Forwards,27,8,2,1,0,2,0,4,0,1,,2,,68,55
+527,Aston Villa,O. Watkins,Forwards,27,34,14,3,0,25,6,66,0,16,4,8,,514,362
+528,Aston Villa,J. Durán,Forwards,19,10,0,1,0,7,0,5,0,1,,1,,21,13
+529,Aston Villa,L. Bailey,Forwards,25,30,4,4,0,29,3,30,0,11,,5,,410,286
+530,Nottingham Forest,D. Henderson,Goalkeepers,26,18,0,2,0,1,0,,31,,,,55,562,319
+531,Nottingham Forest,K. Navas,Goalkeepers,36,15,0,2,0,,0,,30,,,1,44,413,226
+532,Nottingham Forest,W. Hennessey,Goalkeepers,36,2,0,0,0,,0,,4,1,,,7,48,37
+533,Nottingham Forest,G. Shelvey,Goalkeepers,22,0,0,0,0,,0,,0,,,,,,
+534,Nottingham Forest,G. Biancone,Defenders,23,2,0,0,0,,0,,0,2,,1,,18,13
+535,Nottingham Forest,S. Cook,Defenders,32,12,0,4,0,5,0,3,0,8,11,12,,455,367
+536,Nottingham Forest,J. Worrall,Defenders,26,27,1,6,0,24,0,5,0,44,19,22,,1011,795
+537,Nottingham Forest,N. Williams,Defenders,22,31,1,7,0,33,0,20,0,72,8,33,,603,403
+538,Nottingham Forest,H. Toffolo,Defenders,27,17,0,2,0,9,0,5,0,16,8,9,,280,182
+539,Nottingham Forest,M. Niakhaté,Defenders,27,11,0,0,0,12,0,5,0,10,8,15,,235,181
+540,Nottingham Forest,S. Aurier,Defenders,30,21,1,2,0,16,0,7,0,56,10,27,,664,487
+541,Nottingham Forest,S. McKenna,Defenders,26,20,0,4,0,8,0,2,0,12,14,12,,700,555
+542,Nottingham Forest,O. Richards,Defenders,25,0,0,0,0,,0,,,,,,,,
+543,Nottingham Forest,W. Boly,Defenders,32,9,0,2,0,4,1,,0,13,4,12,,242,182
+544,Nottingham Forest,Renan Lodi,Defenders,25,25,0,6,0,23,0,4,0,45,6,28,,628,452
+545,Nottingham Forest,Felipe,Defenders,33,14,0,4,0,13,1,6,0,37,11,31,,526,384
+546,Nottingham Forest,Z. Abbott,Defenders,16,0,0,0,0,,0,,,,,,,,
+547,Nottingham Forest,O. Mangala,Midfielders,25,24,1,3,0,17,0,7,0,22,7,16,,458,373
+548,Nottingham Forest,J. Shelvey,Midfielders,31,8,0,2,0,9,0,3,0,2,2,5,,288,216
+549,Nottingham Forest,J. Colback,Midfielders,33,11,0,0,0,9,0,,0,18,,3,,141,117
+550,Nottingham Forest,M. Gibbs-White,Midfielders,23,32,5,3,0,29,7,39,0,23,4,13,,842,588
+551,Nottingham Forest,J. Lingard,Midfielders,30,17,0,1,0,8,0,4,0,4,,5,,282,229
+552,Nottingham Forest,Cafú,Midfielders,30,1,0,0,0,,0,,0,,,,,2,2
+553,Nottingham Forest,C. Kouyaté,Midfielders,33,18,1,3,0,21,0,5,0,26,2,9,,232,174
+554,Nottingham Forest,R. Yates,Midfielders,25,23,0,4,0,43,2,19,0,29,8,8,,516,408
+555,Nottingham Forest,R. Freuler,Midfielders,31,28,0,4,0,24,0,5,0,43,9,29,,828,659
+556,Nottingham Forest,Danilo,Midfielders,22,11,3,1,0,3,2,11,0,18,5,8,,210,142
+557,Nottingham Forest,Gustavo Scarpa,Midfielders,29,6,0,1,0,4,0,3,0,5,,,,71,48
+558,Nottingham Forest,O. Hammond,Midfielders,20,0,0,0,0,,0,,0,,,,,,
+559,Nottingham Forest,H. Arter,Midfielders,33,0,0,0,0,,0,,,,,,,,
+560,Nottingham Forest,A. Gibson-Hammond,Midfielders,20,0,0,0,0,,0,,,,,,,,
+561,Nottingham Forest,T. Awoniyi,Forwards,25,24,6,1,0,20,1,28,0,14,4,3,,182,127
+562,Nottingham Forest,S. Surridge,Forwards,24,19,1,2,0,12,0,7,0,5,2,,,74,38
+563,Nottingham Forest,A. Mighten,Forwards,21,0,0,0,0,,0,,0,,,,,1,1
+564,Nottingham Forest,B. Johnson,Forwards,21,35,8,6,0,36,3,46,0,33,1,4,,428,269
+565,Nottingham Forest,E. Dennis,Forwards,25,18,2,3,0,13,2,12,0,16,1,2,,162,115
+566,Nottingham Forest,L. Taylor,Forwards,33,0,0,0,0,,0,,0,,,,,,
+567,Nottingham Forest,A. Ayew,Forwards,33,12,0,1,0,3,0,3,0,5,1,,,70,51
+568,Nottingham Forest,C. Wood,Forwards,31,7,1,0,0,2,0,1,0,,1,1,,71,43
+569,Nottingham Forest,D. Osong,Forwards,18,0,0,0,0,,0,,,,,,,,
+570,Newcastle United,M. Dúbravka,Goalkeepers,34,1,0,0,0,,0,,0,,,,5,15,12
+571,Newcastle United,L. Karius,Goalkeepers,29,0,0,0,0,,0,,0,,,,,,
+572,Newcastle United,N. Pope,Goalkeepers,31,34,0,3,1,1,0,,29,1,,,83,618,362
+573,Newcastle United,M. Gillespie,Goalkeepers,31,0,0,0,0,,0,,,,,,,,
+574,Newcastle United,K. Trippier,Defenders,32,34,1,5,0,42,6,5,0,67,13,40,,1811,1366
+575,Newcastle United,P. Dummett,Defenders,31,0,0,0,0,,0,,0,,,,,,
+576,Newcastle United,S. Botman,Defenders,23,32,0,2,0,13,0,15,0,36,21,31,,1557,1341
+577,Newcastle United,F. Schär,Defenders,31,32,1,6,0,16,3,38,0,44,18,47,,1595,1233
+578,Newcastle United,J. Lascelles,Defenders,29,7,0,4,0,6,0,1,0,1,2,,,93,79
+579,Newcastle United,J. Lewis,Defenders,25,1,0,0,0,,0,,0,,,,,12,10
+580,Newcastle United,M. Targett,Defenders,27,15,0,1,0,7,0,,0,12,1,8,,300,246
+581,Newcastle United,E. Krafth,Defenders,28,1,0,0,0,,0,,0,,,,,,
+582,Newcastle United,Javier Manquillo,Defenders,29,3,0,0,0,,0,,0,3,,1,,24,20
+583,Newcastle United,H. Ashby,Defenders,21,0,0,0,0,,0,,,,,,,,
+584,Newcastle United,D. Burn,Defenders,31,34,0,6,0,33,0,13,0,55,14,30,,1275,992
+585,Newcastle United,M. Ritchie,Midfielders,33,7,0,0,0,,0,,0,1,,1,,29,23
+586,Newcastle United,R. Fraser,Midfielders,29,8,0,1,0,3,0,4,0,2,1,,,104,80
+587,Newcastle United,J. Murphy,Midfielders,28,34,4,0,0,8,2,21,0,15,,7,,373,269
+588,Newcastle United,M. Almirón,Midfielders,29,30,11,2,0,19,1,33,0,40,2,8,,810,684
+589,Newcastle United,M. Longstaff,Midfielders,23,0,0,0,0,,0,,,,,,,,
+590,Newcastle United,J. Willock,Midfielders,23,33,3,1,0,32,6,36,0,48,8,25,,853,726
+591,Newcastle United,E. Anderson,Midfielders,20,18,0,0,0,4,0,5,0,10,1,5,,110,81
+592,Newcastle United,S. Longstaff,Midfielders,25,32,1,2,0,25,4,16,0,42,8,16,,1076,888
+593,Newcastle United,Bruno Guimarães,Midfielders,25,28,3,4,0,39,5,18,0,69,4,27,,1388,1171
+594,Newcastle United,L. Miley,Midfielders,17,0,0,0,0,,0,,0,,,,,,
+595,Newcastle United,Joelinton,Forwards,26,30,6,12,0,56,1,36,0,67,6,42,,1150,948
+596,Newcastle United,A. Gordon,Forwards,22,12,0,1,0,7,0,4,0,12,,2,,164,141
+597,Newcastle United,C. Wilson,Forwards,31,27,15,3,0,21,4,52,0,8,,1,,209,143
+598,Newcastle United,A. Saint-Maximin,Forwards,26,21,1,1,0,4,5,18,0,8,,4,,362,267
+599,Newcastle United,A. Isak,Forwards,23,18,10,2,0,14,1,26,0,13,1,3,,255,194
+600,Leeds United,I. Meslier,Goalkeepers,23,34,0,3,0,1,0,1,67,2,,1,94,843,472
+601,Leeds United,K. Klaesson,Goalkeepers,22,0,0,0,0,,0,,0,,,,,,
+602,Leeds United,Joel Robles,Goalkeepers,32,1,0,0,0,,0,,2,,,,4,34,18
+603,Leeds United,D. van den Heuvel,Goalkeepers,19,0,0,0,0,,0,,,,,,,,
+604,Leeds United,H. Christy,Goalkeepers,19,0,0,0,0,,0,,,,,,,,
+605,Leeds United,L. Ayling,Defenders,31,26,1,3,0,14,1,14,0,58,9,23,,756,520
+606,Leeds United,Junior Firpo,Defenders,26,17,1,5,0,20,1,1,0,42,7,20,,462,342
+607,Leeds United,R. Koch,Defenders,26,33,0,6,0,32,0,8,0,46,18,42,,1496,1160
+608,Leeds United,L. Cooper,Defenders,31,17,1,4,0,12,0,8,0,34,8,32,,725,569
+609,Leeds United,S. Dallas,Defenders,32,0,0,0,0,,0,,,,,,,,
+610,Leeds United,P. Struijk,Defenders,23,26,2,4,0,26,1,10,0,75,12,30,,1012,813
+611,Leeds United,R. Kristensen,Defenders,25,23,2,4,0,19,1,9,0,57,12,30,,718,485
+612,Leeds United,Diogo Monteiro,Defenders,18,0,0,0,0,,0,,0,,,,,,
+613,Leeds United,M. Wöber,Defenders,25,13,0,2,0,11,0,4,0,23,11,20,,549,391
+614,Leeds United,K. Moore,Defenders,19,0,0,0,0,,0,,,,,,,,
+615,Leeds United,J. Debayo,Defenders,17,0,0,0,0,,0,,,,,,,,
+616,Leeds United,J. Chilokoa-Mullen,Defenders,18,0,0,0,0,,0,,0,,,,,,
+617,Leeds United,A. Forshaw,Midfielders,31,9,0,0,0,5,0,,0,5,,2,,107,89
+618,Leeds United,B. Aaronson,Midfielders,22,33,1,2,0,16,3,28,0,43,3,5,,694,552
+619,Leeds United,Marc Roca,Midfielders,26,31,1,7,0,40,2,21,0,66,10,23,,1198,953
+620,Leeds United,C. Summerville,Midfielders,21,27,4,3,0,21,2,17,0,30,2,12,,388,303
+621,Leeds United,J. Harrison,Midfielders,26,33,4,2,0,35,7,24,0,40,2,21,,870,610
+622,Leeds United,T. Adams,Midfielders,24,24,0,5,0,37,0,2,0,89,8,35,,1323,1090
+623,Leeds United,D. Gyabi,Midfielders,19,1,0,0,0,,0,,0,2,,,,4,4
+624,Leeds United,A. Miller,Midfielders,20,0,0,0,0,,0,,,,,,,,
+625,Leeds United,W. McKennie,Midfielders,24,16,0,7,0,20,0,7,0,25,3,20,,523,406
+626,Leeds United,C. Allen,Midfielders,19,0,0,0,0,,0,,,,,,,,
+627,Leeds United,J. Snowdon,Midfielders,19,0,0,0,0,,0,,,,,,,,
+628,Leeds United,A. Gray,Midfielders,17,0,0,0,0,,0,,0,,,,,,
+629,Leeds United,P. Bamford,Forwards,29,26,4,2,0,21,2,34,0,9,5,5,,302,212
+630,Leeds United,S. Perkins,Forwards,19,0,0,0,0,,0,,0,,,,,,
+631,Leeds United,Rodrigo,Forwards,32,28,12,5,0,23,1,43,0,21,2,6,,468,339
+632,Leeds United,L. Sinisterra,Forwards,23,19,5,2,0,14,0,22,0,21,1,8,,329,268
+633,Leeds United,G. Rutter,Forwards,21,10,0,0,0,5,0,1,0,9,,3,,51,25
+634,Leeds United,W. Gnonto,Forwards,19,21,2,6,0,25,4,14,0,23,1,5,,424,324
+635,Leeds United,S. Greenwood,Forwards,21,16,1,1,0,10,2,6,0,11,2,1,,129,84
+636,Leeds United,Mateo Joseph,Forwards,19,3,0,0,0,,0,1,0,,,,,2,1
+637,Crystal Palace,Guaita,Goalkeepers,36,27,0,1,0,1,0,,34,,,,85,701,473
+638,Crystal Palace,S. Johnstone,Goalkeepers,30,6,0,1,0,1,0,,7,,,,21,165,108
+639,Crystal Palace,J. Whitworth,Goalkeepers,19,2,0,0,0,,0,,5,,,,5,75,53
+640,Crystal Palace,O.Goodman,Goalkeepers,19,0,0,0,0,,0,,0,,,,,,
+641,Crystal Palace,J. Ward,Defenders,33,25,0,6,0,27,0,1,0,45,15,23,,856,638
+642,Crystal Palace,T. Mitchell,Defenders,23,33,0,5,1,30,2,3,0,63,10,41,,1081,777
+643,Crystal Palace,J. Tomkins,Defenders,34,6,1,2,0,3,0,2,0,4,2,5,,171,138
+644,Crystal Palace,M. Guéhi,Defenders,22,34,1,8,0,23,0,10,0,48,23,43,,1947,1656
+645,Crystal Palace,J. Andersen,Defenders,26,29,1,8,0,25,0,20,0,36,13,21,,1676,1323
+646,Crystal Palace,N. Clyne,Defenders,32,22,0,3,0,10,0,,0,27,4,19,,660,533
+647,Crystal Palace,C. Richards,Defenders,23,9,0,0,0,2,0,3,0,9,1,8,,195,164
+648,Crystal Palace,N. Ferguson,Defenders,22,0,0,0,0,,0,,,,,,,,
+649,Crystal Palace,J. Riedewald,Defenders,26,4,0,0,0,1,0,,0,2,,,,31,24
+650,Crystal Palace,L. Milivojević,Midfielders,32,18,0,2,0,15,0,5,0,13,4,12,,252,204
+651,Crystal Palace,M. Olise,Midfielders,21,34,2,2,0,25,9,22,0,51,1,25,,1028,806
+652,Crystal Palace,A. Lokonga,Midfielders,23,9,0,2,0,7,0,2,0,13,3,7,,259,227
+653,Crystal Palace,E. Eze,Midfielders,24,35,8,3,0,24,3,45,0,39,,11,,968,794
+654,Crystal Palace,J. Schlupp,Midfielders,30,34,3,7,0,51,1,19,0,66,8,23,,854,645
+655,Crystal Palace,J. McArthur,Midfielders,35,2,0,0,0,,0,,0,1,,,,22,17
+656,Crystal Palace,W. Hughes,Midfielders,28,24,0,4,0,16,1,2,0,22,5,10,,257,206
+657,Crystal Palace,C. Doucouré,Midfielders,23,31,0,10,0,36,3,22,0,74,12,54,,1121,930
+658,Crystal Palace,N. Ahamada,Midfielders,21,7,0,1,0,2,0,3,0,3,,,,44,37
+659,Crystal Palace,K. Balmer,Midfielders,22,0,0,0,0,,0,,0,,,,,,
+660,Crystal Palace,J. Wells-Morrison,Midfielders,19,0,0,0,0,,0,,0,,,,,,
+661,Crystal Palace,D. Ozoh,Midfielders,18,1,0,0,0,,0,,0,,,,,3,3
+662,Crystal Palace,K. Rodney,Midfielders,18,0,0,0,0,,0,,0,,,,,,
+663,Crystal Palace,J. Ayew,Forwards,31,35,4,5,0,46,2,18,0,62,2,15,,740,591
+664,Crystal Palace,W. Zaha,Forwards,30,26,7,5,0,34,2,38,0,33,1,16,,570,461
+665,Crystal Palace,J. Mateta,Forwards,25,27,2,3,0,14,0,19,0,6,1,3,,141,98
+666,Crystal Palace,O. Édouard,Forwards,25,32,4,3,0,27,2,23,0,24,5,3,,370,270
+667,Crystal Palace,Adler Nascimento,Forwards,18,0,0,0,0,,0,,,,,,,,
