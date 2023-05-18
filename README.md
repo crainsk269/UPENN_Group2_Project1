@@ -4,13 +4,8 @@
 
 ### Questions:
 
-#### 1. How does a team's possession of the ball affect their chances of winning a soccer game?
-#### 2. What is the correlation between a team's passing accuracy and their goals scored?
-#### 3. How does a team's formation affect their defensive and offensive performance?
-#### 4. Is there a relationship between a team's total shots taken and their goals scored?
-#### 5. Which player on a team has the highest expected goals (xG) per 90 minutes, and how does this compare to their actual goals scored?
-#### 6. How does the age of a player affect their performance metrics, such as goals scored or assists made?
-#### 7. Is there a difference in the performance of a team when playing at home versus playing away?
-#### 8. How does the number of fouls committed by a team affect their chances of winning a soccer game?
-#### 9. Which league has the highest average number of goals scored per game?
-#### 10. How does the average distance covered by players during a game correlate with the team's performance?
+#### 1. Does home advantage field contribute to more goals scored?
+####    Typically, one would think that home field advantage plays a significant role in the home team's performace. This showed to be true for the top nine teams selected for this study. Of the nine teams, seven of them had a scoring ratio of 2-to-1 while one of the teams had a scoring ratio of more than 3-to-1 against the visiting teams.
+
+#### 2. Does being the visiting team contribute to less goals scored?
+####    While the visiting team often faces challenges, our study showed that four of the top nine teams actually scored more goals than their home team opponent did. So while being the home team does have some advantages, it does not necessarily guarantee that they will outperform their visiting opponent.
