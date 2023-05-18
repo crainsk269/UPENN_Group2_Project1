@@ -15,3 +15,18 @@
 
 ### Issues
 ###### As a Group the biggest challenges we ran into was with GitHub and making sure we were not messing with anyones work. Individually we were all adept at the coding and programing aspect. Each member was able to run there own indivdual analysis with little issue. When it came to merging and collaborating with GitHub we found oursleves more confused from it than anything. The biggest question was always, 'Whats gonna happen to the braches when I push/pull/commit" etc. We were able to trouble shoot and resolve the issue in our own way.  
+
+
+## Chris
+
+### Questions
+###### 1)   How does the age of a player affect their performance metrics, such as goals scored or assists made?
+######      I compared the ages of players compared to how many goals they've scored.
+
+
+###### 2)   What is the correlation between a players passing accuracy and their goals scored?
+######      Another graph comparing the ages of players compared to a groups average passing rate.
+
+### Tasks
+###### Chris -
+###### Collected data and made a dataset that could be worked with. Ran comparitive Bar Graph Analyses.
