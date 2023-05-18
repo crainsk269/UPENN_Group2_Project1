@@ -1,6 +1,6 @@
 # UPENN_Group2_Project1
 
-###### Ryan
+## Ryan
 
 ### Questions
 ###### 1) Is there a relationship between Total Shots on Target and Total Goals scored.
